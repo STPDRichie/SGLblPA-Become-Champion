@@ -1,0 +1,3468 @@
+fileFormatVersion: 2
+guid: 41ef1e4c9c6e5f24689f22ee1e38379f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6690845387398046552
+    second: Abandoned Hospital Tilemap_0
+  - first:
+      213: -6016461231322557950
+    second: Abandoned Hospital Tilemap_1
+  - first:
+      213: -514181436477517735
+    second: Abandoned Hospital Tilemap_2
+  - first:
+      213: 2796249462987983602
+    second: Abandoned Hospital Tilemap_3
+  - first:
+      213: -4264508959064349672
+    second: Abandoned Hospital Tilemap_4
+  - first:
+      213: 8191465653256075234
+    second: Abandoned Hospital Tilemap_5
+  - first:
+      213: 6560973559870599986
+    second: Abandoned Hospital Tilemap_6
+  - first:
+      213: -7608156218802812577
+    second: Abandoned Hospital Tilemap_7
+  - first:
+      213: 8146076016259441981
+    second: Abandoned Hospital Tilemap_8
+  - first:
+      213: -5951016349644161327
+    second: Abandoned Hospital Tilemap_9
+  - first:
+      213: -4279473677135355508
+    second: Abandoned Hospital Tilemap_10
+  - first:
+      213: 2170118524687861149
+    second: Abandoned Hospital Tilemap_11
+  - first:
+      213: -5672427833557922038
+    second: Abandoned Hospital Tilemap_12
+  - first:
+      213: -5383208226998199524
+    second: Abandoned Hospital Tilemap_13
+  - first:
+      213: -2203568893081816542
+    second: Abandoned Hospital Tilemap_14
+  - first:
+      213: -7524629179851550409
+    second: Abandoned Hospital Tilemap_15
+  - first:
+      213: 5663996951567299576
+    second: Abandoned Hospital Tilemap_16
+  - first:
+      213: 4669581951463877379
+    second: Abandoned Hospital Tilemap_17
+  - first:
+      213: 1621707704561914541
+    second: Abandoned Hospital Tilemap_18
+  - first:
+      213: 6988901123325082612
+    second: Abandoned Hospital Tilemap_19
+  - first:
+      213: 2973782445589269960
+    second: Abandoned Hospital Tilemap_20
+  - first:
+      213: -6303960030252406161
+    second: Abandoned Hospital Tilemap_21
+  - first:
+      213: -1147118683243844585
+    second: Abandoned Hospital Tilemap_22
+  - first:
+      213: -283662803431340358
+    second: Abandoned Hospital Tilemap_23
+  - first:
+      213: -6246149662640542742
+    second: Abandoned Hospital Tilemap_24
+  - first:
+      213: -8668913586919545467
+    second: Abandoned Hospital Tilemap_25
+  - first:
+      213: -6302699448453823484
+    second: Abandoned Hospital Tilemap_26
+  - first:
+      213: -525258953050471628
+    second: Abandoned Hospital Tilemap_27
+  - first:
+      213: -5031085930756593526
+    second: Abandoned Hospital Tilemap_28
+  - first:
+      213: -3103256541786824565
+    second: Abandoned Hospital Tilemap_29
+  - first:
+      213: 8012475242342461755
+    second: Abandoned Hospital Tilemap_30
+  - first:
+      213: -3586259596540519296
+    second: Abandoned Hospital Tilemap_31
+  - first:
+      213: -8661843104747530663
+    second: Abandoned Hospital Tilemap_32
+  - first:
+      213: 5609361209804397127
+    second: Abandoned Hospital Tilemap_33
+  - first:
+      213: 2924713513269276616
+    second: Abandoned Hospital Tilemap_34
+  - first:
+      213: -2775899081915264801
+    second: Abandoned Hospital Tilemap_35
+  - first:
+      213: 2883913448540480890
+    second: Abandoned Hospital Tilemap_36
+  - first:
+      213: -1675340388430202007
+    second: Abandoned Hospital Tilemap_37
+  - first:
+      213: -7353476111003847037
+    second: Abandoned Hospital Tilemap_38
+  - first:
+      213: 8972463731427638978
+    second: Abandoned Hospital Tilemap_39
+  - first:
+      213: -4581290331663939925
+    second: Abandoned Hospital Tilemap_40
+  - first:
+      213: -8217179080589248571
+    second: Abandoned Hospital Tilemap_41
+  - first:
+      213: -6410710200513959499
+    second: Abandoned Hospital Tilemap_42
+  - first:
+      213: 3475955661143815909
+    second: Abandoned Hospital Tilemap_43
+  - first:
+      213: 357470477082768170
+    second: Abandoned Hospital Tilemap_44
+  - first:
+      213: -5017300320918903137
+    second: Abandoned Hospital Tilemap_45
+  - first:
+      213: -1549157915572125107
+    second: Abandoned Hospital Tilemap_46
+  - first:
+      213: 6414873671650140268
+    second: Abandoned Hospital Tilemap_47
+  - first:
+      213: -632091952190600633
+    second: Abandoned Hospital Tilemap_48
+  - first:
+      213: -1537496623937590063
+    second: Abandoned Hospital Tilemap_49
+  - first:
+      213: -2230538498135445232
+    second: Abandoned Hospital Tilemap_50
+  - first:
+      213: -4889905934657425917
+    second: Abandoned Hospital Tilemap_51
+  - first:
+      213: 6686435096201929736
+    second: Abandoned Hospital Tilemap_52
+  - first:
+      213: 1391174325744713612
+    second: Abandoned Hospital Tilemap_53
+  - first:
+      213: -1118364129790116272
+    second: Abandoned Hospital Tilemap_54
+  - first:
+      213: 4823339689712386138
+    second: Abandoned Hospital Tilemap_55
+  - first:
+      213: -981127640012689969
+    second: Abandoned Hospital Tilemap_56
+  - first:
+      213: 5008906096099957367
+    second: Abandoned Hospital Tilemap_57
+  - first:
+      213: -2031288310073358456
+    second: Abandoned Hospital Tilemap_58
+  - first:
+      213: -2331544446378492944
+    second: Abandoned Hospital Tilemap_59
+  - first:
+      213: -6504101113208290464
+    second: Abandoned Hospital Tilemap_60
+  - first:
+      213: 9096171120895955028
+    second: Abandoned Hospital Tilemap_61
+  - first:
+      213: 2563292175262074731
+    second: Abandoned Hospital Tilemap_62
+  - first:
+      213: 3474727774591568186
+    second: Abandoned Hospital Tilemap_63
+  - first:
+      213: 1201343382267768977
+    second: Abandoned Hospital Tilemap_64
+  - first:
+      213: 3387092615021933491
+    second: Abandoned Hospital Tilemap_65
+  - first:
+      213: -2804992146331588596
+    second: Abandoned Hospital Tilemap_66
+  - first:
+      213: -4863590194058239989
+    second: Abandoned Hospital Tilemap_67
+  - first:
+      213: -7176599477207287030
+    second: Abandoned Hospital Tilemap_68
+  - first:
+      213: 8942704383404888067
+    second: Abandoned Hospital Tilemap_69
+  - first:
+      213: -1379084014731874668
+    second: Abandoned Hospital Tilemap_70
+  - first:
+      213: 9085399904218424562
+    second: Abandoned Hospital Tilemap_71
+  - first:
+      213: 3397056766883124052
+    second: Abandoned Hospital Tilemap_72
+  - first:
+      213: -8538820189555339390
+    second: Abandoned Hospital Tilemap_73
+  - first:
+      213: -7858188332364698940
+    second: Abandoned Hospital Tilemap_74
+  - first:
+      213: -3260391009582942751
+    second: Abandoned Hospital Tilemap_75
+  - first:
+      213: 8975768268588139727
+    second: Abandoned Hospital Tilemap_76
+  - first:
+      213: -8417555835829554302
+    second: Abandoned Hospital Tilemap_77
+  - first:
+      213: 1612982068561453123
+    second: Abandoned Hospital Tilemap_78
+  - first:
+      213: -8294644143754452841
+    second: Abandoned Hospital Tilemap_79
+  - first:
+      213: 3192587629385481445
+    second: Abandoned Hospital Tilemap_80
+  - first:
+      213: -7703884396592638885
+    second: Abandoned Hospital Tilemap_81
+  - first:
+      213: 1855005656106280198
+    second: Abandoned Hospital Tilemap_82
+  - first:
+      213: -1685802390518348975
+    second: Abandoned Hospital Tilemap_83
+  - first:
+      213: 4145958364065361940
+    second: Abandoned Hospital Tilemap_84
+  - first:
+      213: -1538275743007473843
+    second: Abandoned Hospital Tilemap_85
+  - first:
+      213: 1799333503137313218
+    second: Abandoned Hospital Tilemap_86
+  - first:
+      213: 7567318404013151116
+    second: Abandoned Hospital Tilemap_87
+  - first:
+      213: -389121541750037489
+    second: Abandoned Hospital Tilemap_88
+  - first:
+      213: 7142732937844679879
+    second: Abandoned Hospital Tilemap_89
+  - first:
+      213: 5774556978037504848
+    second: Abandoned Hospital Tilemap_90
+  - first:
+      213: -1145827112574499229
+    second: Abandoned Hospital Tilemap_91
+  - first:
+      213: -3993712636811291238
+    second: Abandoned Hospital Tilemap_92
+  - first:
+      213: -4034052946495541324
+    second: Abandoned Hospital Tilemap_93
+  - first:
+      213: 7145600532592814660
+    second: Abandoned Hospital Tilemap_94
+  - first:
+      213: 8079625897311177998
+    second: Abandoned Hospital Tilemap_95
+  - first:
+      213: -4863137397864150078
+    second: Abandoned Hospital Tilemap_96
+  - first:
+      213: 3277517856719343553
+    second: Abandoned Hospital Tilemap_97
+  - first:
+      213: -514745899407037132
+    second: Abandoned Hospital Tilemap_98
+  - first:
+      213: -3003655977816861120
+    second: Abandoned Hospital Tilemap_99
+  - first:
+      213: 6260022889160937131
+    second: Abandoned Hospital Tilemap_100
+  - first:
+      213: 7680820559736536534
+    second: Abandoned Hospital Tilemap_101
+  - first:
+      213: 6397251114163812782
+    second: Abandoned Hospital Tilemap_102
+  - first:
+      213: -8725199308646296028
+    second: Abandoned Hospital Tilemap_103
+  - first:
+      213: -1343339592862934224
+    second: Abandoned Hospital Tilemap_104
+  - first:
+      213: 4279315756395468084
+    second: Abandoned Hospital Tilemap_105
+  - first:
+      213: -5366359078459320033
+    second: Abandoned Hospital Tilemap_106
+  - first:
+      213: -6145581285164221887
+    second: Abandoned Hospital Tilemap_107
+  - first:
+      213: -579939954214664769
+    second: Abandoned Hospital Tilemap_108
+  - first:
+      213: -7020339745221730633
+    second: Abandoned Hospital Tilemap_109
+  - first:
+      213: -7744309735230057675
+    second: Abandoned Hospital Tilemap_110
+  - first:
+      213: 4565334306988271485
+    second: Abandoned Hospital Tilemap_111
+  - first:
+      213: 183714737026433681
+    second: Abandoned Hospital Tilemap_112
+  - first:
+      213: -3998840096781117322
+    second: Abandoned Hospital Tilemap_113
+  - first:
+      213: 3875348514685772154
+    second: Abandoned Hospital Tilemap_114
+  - first:
+      213: -955940191554707188
+    second: Abandoned Hospital Tilemap_115
+  - first:
+      213: -7617617483470352481
+    second: Abandoned Hospital Tilemap_116
+  - first:
+      213: -5330853445795116142
+    second: Abandoned Hospital Tilemap_117
+  - first:
+      213: 8318997645243092576
+    second: Abandoned Hospital Tilemap_118
+  - first:
+      213: 1835965571548852316
+    second: Abandoned Hospital Tilemap_119
+  - first:
+      213: -3414380417396011806
+    second: Abandoned Hospital Tilemap_120
+  - first:
+      213: -1229031620484555080
+    second: Abandoned Hospital Tilemap_121
+  - first:
+      213: 9052629896979181117
+    second: Abandoned Hospital Tilemap_122
+  - first:
+      213: -8527932587366031428
+    second: Abandoned Hospital Tilemap_123
+  - first:
+      213: -3184391140103651848
+    second: Abandoned Hospital Tilemap_124
+  - first:
+      213: -2581868964640464839
+    second: Abandoned Hospital Tilemap_125
+  - first:
+      213: 6446540253453408992
+    second: Abandoned Hospital Tilemap_126
+  - first:
+      213: -401757364071780200
+    second: Abandoned Hospital Tilemap_127
+  - first:
+      213: -7234362585445810964
+    second: Abandoned Hospital Tilemap_128
+  - first:
+      213: 2204751004896104004
+    second: Abandoned Hospital Tilemap_129
+  - first:
+      213: -1214479916750938842
+    second: Abandoned Hospital Tilemap_130
+  - first:
+      213: 1496662008211913233
+    second: Abandoned Hospital Tilemap_131
+  - first:
+      213: 3833688071834214176
+    second: Abandoned Hospital Tilemap_132
+  - first:
+      213: 598396605431469573
+    second: Abandoned Hospital Tilemap_133
+  - first:
+      213: 2698839510501959383
+    second: Abandoned Hospital Tilemap_134
+  - first:
+      213: -7206341408259479506
+    second: Abandoned Hospital Tilemap_135
+  - first:
+      213: 8712712499745548899
+    second: Abandoned Hospital Tilemap_136
+  - first:
+      213: 2321256500524971158
+    second: Abandoned Hospital Tilemap_137
+  - first:
+      213: 5859256618211919772
+    second: Abandoned Hospital Tilemap_138
+  - first:
+      213: 6496182730437462564
+    second: Abandoned Hospital Tilemap_139
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ebe22e68aadc50800000000000000
+      internalID: 6690845387398046552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2021c1ef26c318ca0800000000000000
+      internalID: -6016461231322557950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95058a035b24dd8f0800000000000000
+      internalID: -514181436477517735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa86c842164ec620800000000000000
+      internalID: 2796249462987983602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814af7132bb61d4c0800000000000000
+      internalID: -4264508959064349672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e734248c9eeda170800000000000000
+      internalID: 8191465653256075234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23331d0f0b24d0b50800000000000000
+      internalID: 6560973559870599986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59449e8a366a6690800000000000000
+      internalID: -7608156218802812577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35297e1afcac0170800000000000000
+      internalID: 8146076016259441981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defaeae82eb96da0800000000000000
+      internalID: -5951016349644161327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8166b04d514c94c0800000000000000
+      internalID: -4279473677135355508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c388ec4fcd1e10800000000000000
+      internalID: 2170118524687861149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fcdbe60fc7741b0800000000000000
+      internalID: -5672427833557922038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bdfc593a00b45b0800000000000000
+      internalID: -5383208226998199524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f1c944c95b61e0800000000000000
+      internalID: -2203568893081816542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731d86cc0a5239790800000000000000
+      internalID: -7524629179851550409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37013e73f8a9e40800000000000000
+      internalID: 5663996951567299576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b649a5b00bdc040800000000000000
+      internalID: 4669581951463877379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da25deba096718610800000000000000
+      internalID: 1621707704561914541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbe1afa809df060800000000000000
+      internalID: 6988901123325082612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd04a4e06ff44920800000000000000
+      internalID: 2973782445589269960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6b8690c5d388a0800000000000000
+      internalID: -6303960030252406161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6902a2ad9410f0800000000000000
+      internalID: -1147118683243844585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6cb75ee2a301cf0800000000000000
+      internalID: -283662803431340358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb6260b9f73159a0800000000000000
+      internalID: -6246149662640542742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856a17c505d1b780800000000000000
+      internalID: -8668913586919545467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4040cd8ae305888a0800000000000000
+      internalID: -6302699448453823484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4334550e3c7e5b8f0800000000000000
+      internalID: -525258953050471628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a9c6700efd2ab0800000000000000
+      internalID: -5031085930756593526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a3e3fd940fe4d0800000000000000
+      internalID: -3103256541786824565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b313f6fe7c7023f60800000000000000
+      internalID: 8012475242342461755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cddd3d5eb0b3ec0800000000000000
+      internalID: -3586259596540519296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9565b51b693fac780800000000000000
+      internalID: -8661843104747530663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a1f37fc4478dd40800000000000000
+      internalID: 5609361209804397127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf233cc17ba69820800000000000000
+      internalID: 2924713513269276616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09b1a0e760a79d0800000000000000
+      internalID: -2775899081915264801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752a377008b50820800000000000000
+      internalID: 2883913448540480890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb0c50bceffb8e0800000000000000
+      internalID: -1675340388430202007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867b4bff6433f990800000000000000
+      internalID: -7353476111003847037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef1dfb938948c70800000000000000
+      internalID: 8972463731427638978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64d3057bcfb60c0800000000000000
+      internalID: -4581290331663939925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f4b5a927b6fd80800000000000000
+      internalID: -8217179080589248571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9646cb9059807a0800000000000000
+      internalID: -6410710200513959499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63c75e1431d3030800000000000000
+      internalID: 3475955661143815909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233534418df5f400800000000000000
+      internalID: 357470477082768170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96ec20e0f7fe5ab0800000000000000
+      internalID: -5017300320918903137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c6556519408ae0800000000000000
+      internalID: -1549157915572125107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6066bded95360950800000000000000
+      internalID: 6414873671650140268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acb4ce7bb5a37f0800000000000000
+      internalID: -632091952190600633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc66de67f6b9aae0800000000000000
+      internalID: -1537496623937590063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bdc8cd098b01e0800000000000000
+      internalID: -2230538498135445232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e6ba3d570932cb0800000000000000
+      internalID: -4889905934657425917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80422d23b4dfacc50800000000000000
+      internalID: 6686435096201929736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f38a2bda17e4310800000000000000
+      internalID: 1391174325744713612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3252dfb5ca70f0800000000000000
+      internalID: -1118364129790116272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50895484e1ffe240800000000000000
+      internalID: 4823339689712386138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde9b11c955262f0800000000000000
+      internalID: -981127640012689969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a935b5e85338540800000000000000
+      internalID: 5008906096099957367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878ca15b0a6fc3e0800000000000000
+      internalID: -2031288310073358456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb3397dda0b4afd0800000000000000
+      internalID: -2331544446378492944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634ffb6f7accb5a0800000000000000
+      internalID: -6504101113208290464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509b2dd0771c3e70800000000000000
+      internalID: 9096171120895955028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67c80a07a4a29320800000000000000
+      internalID: 2563292175262074731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c6b74086b83030800000000000000
+      internalID: 3474727774591568186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1903651f0770ca010800000000000000
+      internalID: 1201343382267768977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b33bbba9ce510f20800000000000000
+      internalID: 3387092615021933491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082520218aa219d0800000000000000
+      internalID: -2804992146331588596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e516ac7e018cb0800000000000000
+      internalID: -4863590194058239989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3ec97cc8976c90800000000000000
+      internalID: -7176599477207287030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005d28914eda1c70800000000000000
+      internalID: 8942704383404888067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eac7235628cdce0800000000000000
+      internalID: -1379084014731874668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ae4d8313d51e70800000000000000
+      internalID: 9085399904218424562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d7ef8125c42f20800000000000000
+      internalID: 3397056766883124052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fce983744008980800000000000000
+      internalID: -8538820189555339390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca684f985b12f290800000000000000
+      internalID: -7858188332364698940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57eeca6a3c0c2d0800000000000000
+      internalID: -3260391009582942751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44b634fa5509c70800000000000000
+      internalID: 8975768268588139727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fc50c095de2b80800000000000000
+      internalID: -8417555835829554302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402ea935a6726610800000000000000
+      internalID: 1612982068561453123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790ed31291183ec80800000000000000
+      internalID: -8294644143754452841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecf3dba8895e4c20800000000000000
+      internalID: 3192587629385481445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54db6e45fd461590800000000000000
+      internalID: -7703884396592638885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6052e84e0dd4eb910800000000000000
+      internalID: 1855005656106280198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15346a758a3da98e0800000000000000
+      internalID: -1685802390518348975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fca77a27698930800000000000000
+      internalID: 4145958364065361940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f7073ac52f6aae0800000000000000
+      internalID: -1538275743007473843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c175fea94488f810800000000000000
+      internalID: 1799333503137313218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83da7dbef3840960800000000000000
+      internalID: 7567318404013151116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046989f400999af0800000000000000
+      internalID: -389121541750037489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e6bd53c5102360800000000000000
+      internalID: 7142732937844679879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bbd230af8532050800000000000000
+      internalID: 5774556978037504848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664cfcdf443910f0800000000000000
+      internalID: -1145827112574499229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95dfd3348b7398c0800000000000000
+      internalID: -3993712636811291238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe30fe73a2408c0800000000000000
+      internalID: -4034052946495541324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a690c43d54a2360800000000000000
+      internalID: 7145600532592814660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d874722f8902070800000000000000
+      internalID: 8079625897311177998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc36a7d4aa28cb0800000000000000
+      internalID: -4863137397864150078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf81ca20251c7d20800000000000000
+      internalID: 3277517856719343553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d214ce4514bd8f0800000000000000
+      internalID: -514745899407037132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465fbe5dced056d0800000000000000
+      internalID: -3003655977816861120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae804296a110e650800000000000000
+      internalID: 6260022889160937131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddfc96ba91c79a60800000000000000
+      internalID: 7680820559736536534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b4b68ef997c850800000000000000
+      internalID: 6397251114163812782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42657a5f47dd9e680800000000000000
+      internalID: -8725199308646296028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdfa2f1cf7b5de0800000000000000
+      internalID: -1343339592862934224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351fa5f10f236b30800000000000000
+      internalID: 4279315756395468084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195d3fa9dcd685b0800000000000000
+      internalID: -5366359078459320033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a7f7fb16286baa0800000000000000
+      internalID: -6145581285164221887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb58afd2fa3a3f7f0800000000000000
+      internalID: -579939954214664769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9083723eb29e90800000000000000
+      internalID: -7020339745221730633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335301b35fa68490800000000000000
+      internalID: -7744309735230057675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a0f03d535b5f30800000000000000
+      internalID: 4565334306988271485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920778749fac8200800000000000000
+      internalID: 183714737026433681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d5c56e144188c0800000000000000
+      internalID: -3998840096781117322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71eeae01f008c530800000000000000
+      internalID: 3875348514685772154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ecd7e571dbb2f0800000000000000
+      internalID: -955940191554707188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc1f63249c84690800000000000000
+      internalID: -7617617483470352481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b07bdf8010506b0800000000000000
+      internalID: -5330853445795116142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e860c4844037370800000000000000
+      internalID: 8318997645243092576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503400c5f8aa7910800000000000000
+      internalID: 1835965571548852316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8f0db91fad90d0800000000000000
+      internalID: -3414380417396011806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9b4bb04a91fee0800000000000000
+      internalID: -1229031620484555080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e668cade661ad70800000000000000
+      internalID: 9052629896979181117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd195ae72b6a980800000000000000
+      internalID: -8527932587366031428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd78343125cec3d0800000000000000
+      internalID: -3184391140103651848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930eff12bdb5b2cd0800000000000000
+      internalID: -2581868964640464839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead85d8436b67950800000000000000
+      internalID: 6446540253453408992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ba945ecbac6af0800000000000000
+      internalID: -401757364071780200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec302ece816a9b90800000000000000
+      internalID: -7234362585445810964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e84019b59d89e10800000000000000
+      internalID: 2204751004896104004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dd63743fc452fe0800000000000000
+      internalID: -1214479916750938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a3b44ba2635c410800000000000000
+      internalID: 1496662008211913233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f94555dfef33530800000000000000
+      internalID: 3833688071834214176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506da8dca8eed4800800000000000000
+      internalID: 598396605431469573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d622495c34347520800000000000000
+      internalID: 2698839510501959383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2861868baeedfb90800000000000000
+      internalID: -7206341408259479506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a60794bd5c9e870800000000000000
+      internalID: 8712712499745548899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947b5a1d72c63020800000000000000
+      internalID: 2321256500524971158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c060c9d2405150800000000000000
+      internalID: 5859256618211919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abandoned Hospital Tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a80cb66c3172a50800000000000000
+      internalID: 6496182730437462564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

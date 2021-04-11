@@ -1,0 +1,3132 @@
+fileFormatVersion: 2
+guid: cb82d72990728374e96832798b6e4fae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3354671681052512244
+    second: Communal Flat Tilemap_0
+  - first:
+      213: -574760857174331573
+    second: Communal Flat Tilemap_1
+  - first:
+      213: 8596624095484806202
+    second: Communal Flat Tilemap_2
+  - first:
+      213: -7013276071301412754
+    second: Communal Flat Tilemap_3
+  - first:
+      213: -8745707330547392564
+    second: Communal Flat Tilemap_4
+  - first:
+      213: 2017909554028828264
+    second: Communal Flat Tilemap_5
+  - first:
+      213: 3046305860229204188
+    second: Communal Flat Tilemap_6
+  - first:
+      213: 715111952738839095
+    second: Communal Flat Tilemap_7
+  - first:
+      213: -187109830253844944
+    second: Communal Flat Tilemap_8
+  - first:
+      213: -6084863895591795082
+    second: Communal Flat Tilemap_9
+  - first:
+      213: 4242804090228776956
+    second: Communal Flat Tilemap_10
+  - first:
+      213: -961215450208072025
+    second: Communal Flat Tilemap_11
+  - first:
+      213: -8957182662391774264
+    second: Communal Flat Tilemap_12
+  - first:
+      213: 4408035990313762117
+    second: Communal Flat Tilemap_13
+  - first:
+      213: -1348238082506590793
+    second: Communal Flat Tilemap_14
+  - first:
+      213: -2436648285284397320
+    second: Communal Flat Tilemap_15
+  - first:
+      213: -21322018778338630
+    second: Communal Flat Tilemap_16
+  - first:
+      213: 4221748256472934161
+    second: Communal Flat Tilemap_17
+  - first:
+      213: 489367343351053334
+    second: Communal Flat Tilemap_18
+  - first:
+      213: -6242870725833658090
+    second: Communal Flat Tilemap_19
+  - first:
+      213: -8253884847041401165
+    second: Communal Flat Tilemap_20
+  - first:
+      213: -1034668665219177519
+    second: Communal Flat Tilemap_21
+  - first:
+      213: -554191406806841818
+    second: Communal Flat Tilemap_22
+  - first:
+      213: 3943758209655489653
+    second: Communal Flat Tilemap_23
+  - first:
+      213: -5748271533239180992
+    second: Communal Flat Tilemap_24
+  - first:
+      213: -6589625155527649062
+    second: Communal Flat Tilemap_25
+  - first:
+      213: 6952289477669682511
+    second: Communal Flat Tilemap_26
+  - first:
+      213: -378596198795729000
+    second: Communal Flat Tilemap_27
+  - first:
+      213: -897088687315369672
+    second: Communal Flat Tilemap_28
+  - first:
+      213: 4669484467994108525
+    second: Communal Flat Tilemap_29
+  - first:
+      213: -6686096374102000358
+    second: Communal Flat Tilemap_30
+  - first:
+      213: -8188009278815191383
+    second: Communal Flat Tilemap_31
+  - first:
+      213: -3082797337657284544
+    second: Communal Flat Tilemap_32
+  - first:
+      213: 7930945874211655982
+    second: Communal Flat Tilemap_33
+  - first:
+      213: 2877823808468882757
+    second: Communal Flat Tilemap_34
+  - first:
+      213: 1974839666169539663
+    second: Communal Flat Tilemap_35
+  - first:
+      213: -2016726007102319943
+    second: Communal Flat Tilemap_36
+  - first:
+      213: 945741670530935075
+    second: Communal Flat Tilemap_37
+  - first:
+      213: 3705590898480499733
+    second: Communal Flat Tilemap_38
+  - first:
+      213: 9008645161076756557
+    second: Communal Flat Tilemap_39
+  - first:
+      213: 8476126578929968205
+    second: Communal Flat Tilemap_40
+  - first:
+      213: 574480174434647194
+    second: Communal Flat Tilemap_41
+  - first:
+      213: -4318219732027728927
+    second: Communal Flat Tilemap_42
+  - first:
+      213: -4886726965934795562
+    second: Communal Flat Tilemap_43
+  - first:
+      213: 344882748801456610
+    second: Communal Flat Tilemap_44
+  - first:
+      213: -3236636236405306015
+    second: Communal Flat Tilemap_45
+  - first:
+      213: -6655553078357102814
+    second: Communal Flat Tilemap_46
+  - first:
+      213: -541709109632005001
+    second: Communal Flat Tilemap_47
+  - first:
+      213: -9185319042204640520
+    second: Communal Flat Tilemap_48
+  - first:
+      213: -3433684570017373034
+    second: Communal Flat Tilemap_49
+  - first:
+      213: 6781132425519758656
+    second: Communal Flat Tilemap_50
+  - first:
+      213: -8504806218219777505
+    second: Communal Flat Tilemap_51
+  - first:
+      213: 4126682057702221541
+    second: Communal Flat Tilemap_52
+  - first:
+      213: -7818321778275662910
+    second: Communal Flat Tilemap_53
+  - first:
+      213: -4535199663833139654
+    second: Communal Flat Tilemap_54
+  - first:
+      213: 3709059606354145287
+    second: Communal Flat Tilemap_55
+  - first:
+      213: -3816538730091989294
+    second: Communal Flat Tilemap_56
+  - first:
+      213: 3755398175187970738
+    second: Communal Flat Tilemap_57
+  - first:
+      213: -1859698036484611997
+    second: Communal Flat Tilemap_58
+  - first:
+      213: -5543956237648958120
+    second: Communal Flat Tilemap_59
+  - first:
+      213: 4759305750705029172
+    second: Communal Flat Tilemap_60
+  - first:
+      213: 4090028230680642998
+    second: Communal Flat Tilemap_61
+  - first:
+      213: 7972409342382215612
+    second: Communal Flat Tilemap_62
+  - first:
+      213: 223378507625582136
+    second: Communal Flat Tilemap_63
+  - first:
+      213: 434379964603930687
+    second: Communal Flat Tilemap_64
+  - first:
+      213: -9154229654190153612
+    second: Communal Flat Tilemap_65
+  - first:
+      213: -575455375480183082
+    second: Communal Flat Tilemap_66
+  - first:
+      213: 6829242995340377
+    second: Communal Flat Tilemap_67
+  - first:
+      213: -7622444865645880885
+    second: Communal Flat Tilemap_68
+  - first:
+      213: 6149011357452174055
+    second: Communal Flat Tilemap_69
+  - first:
+      213: -5401680798729172654
+    second: Communal Flat Tilemap_70
+  - first:
+      213: 6247142189410256624
+    second: Communal Flat Tilemap_71
+  - first:
+      213: -734741683665005937
+    second: Communal Flat Tilemap_72
+  - first:
+      213: 8598715556452335358
+    second: Communal Flat Tilemap_73
+  - first:
+      213: -5631645070825549500
+    second: Communal Flat Tilemap_74
+  - first:
+      213: 6192112939658109082
+    second: Communal Flat Tilemap_75
+  - first:
+      213: 1294854604218752069
+    second: Communal Flat Tilemap_76
+  - first:
+      213: 324608116411179527
+    second: Communal Flat Tilemap_77
+  - first:
+      213: 7886288030102878789
+    second: Communal Flat Tilemap_78
+  - first:
+      213: -3828504864564820926
+    second: Communal Flat Tilemap_79
+  - first:
+      213: -6887366388530708900
+    second: Communal Flat Tilemap_80
+  - first:
+      213: 6207692951570606524
+    second: Communal Flat Tilemap_81
+  - first:
+      213: -2272564004763447822
+    second: Communal Flat Tilemap_82
+  - first:
+      213: -7258950229464539401
+    second: Communal Flat Tilemap_83
+  - first:
+      213: 1327374542800695345
+    second: Communal Flat Tilemap_84
+  - first:
+      213: -429280143721046892
+    second: Communal Flat Tilemap_85
+  - first:
+      213: 6508289933360381127
+    second: Communal Flat Tilemap_86
+  - first:
+      213: -2517418371863886429
+    second: Communal Flat Tilemap_87
+  - first:
+      213: 3648522760931372011
+    second: Communal Flat Tilemap_88
+  - first:
+      213: -8510137689646664661
+    second: Communal Flat Tilemap_89
+  - first:
+      213: -6301596824096789211
+    second: Communal Flat Tilemap_90
+  - first:
+      213: 4482225784587912244
+    second: Communal Flat Tilemap_91
+  - first:
+      213: -5105014979011566804
+    second: Communal Flat Tilemap_92
+  - first:
+      213: 6027044190139546427
+    second: Communal Flat Tilemap_93
+  - first:
+      213: -8350175597799478159
+    second: Communal Flat Tilemap_94
+  - first:
+      213: -316867730545459208
+    second: Communal Flat Tilemap_95
+  - first:
+      213: 6051052643733262186
+    second: Communal Flat Tilemap_96
+  - first:
+      213: 4954324533350330265
+    second: Communal Flat Tilemap_97
+  - first:
+      213: 1073665051225104831
+    second: Communal Flat Tilemap_98
+  - first:
+      213: 2539169317232088262
+    second: Communal Flat Tilemap_99
+  - first:
+      213: -1482509718745307930
+    second: Communal Flat Tilemap_100
+  - first:
+      213: -8454891045656155668
+    second: Communal Flat Tilemap_101
+  - first:
+      213: -3731789327269734700
+    second: Communal Flat Tilemap_102
+  - first:
+      213: -4982361079180466533
+    second: Communal Flat Tilemap_103
+  - first:
+      213: 471139858148054650
+    second: Communal Flat Tilemap_104
+  - first:
+      213: -9130604319575567276
+    second: Communal Flat Tilemap_105
+  - first:
+      213: -7760055135698476164
+    second: Communal Flat Tilemap_106
+  - first:
+      213: -6928313415947766924
+    second: Communal Flat Tilemap_107
+  - first:
+      213: -3891665379668439394
+    second: Communal Flat Tilemap_108
+  - first:
+      213: 5503094814158982573
+    second: Communal Flat Tilemap_109
+  - first:
+      213: 6976761712993927723
+    second: Communal Flat Tilemap_110
+  - first:
+      213: 8420586107391050517
+    second: Communal Flat Tilemap_111
+  - first:
+      213: -5409717016876031390
+    second: Communal Flat Tilemap_112
+  - first:
+      213: -6204918902221161976
+    second: Communal Flat Tilemap_113
+  - first:
+      213: -8019061482470262593
+    second: Communal Flat Tilemap_114
+  - first:
+      213: -7911204656731475225
+    second: Communal Flat Tilemap_115
+  - first:
+      213: -3305234885052665301
+    second: Communal Flat Tilemap_116
+  - first:
+      213: -1072022360803545053
+    second: Communal Flat Tilemap_117
+  - first:
+      213: -1967949485814495623
+    second: Communal Flat Tilemap_118
+  - first:
+      213: -491837981866203835
+    second: Communal Flat Tilemap_119
+  - first:
+      213: -5417825824079243984
+    second: Communal Flat Tilemap_120
+  - first:
+      213: 382354577226598681
+    second: Communal Flat Tilemap_121
+  - first:
+      213: -7564331386190371923
+    second: Communal Flat Tilemap_122
+  - first:
+      213: -1277909238380600574
+    second: Communal Flat Tilemap_123
+  - first:
+      213: 2375533505989965179
+    second: Communal Flat Tilemap_124
+  - first:
+      213: -8021044348260737501
+    second: Communal Flat Tilemap_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff823fbe103e8e20800000000000000
+      internalID: 3354671681052512244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f235dab0a0608f0800000000000000
+      internalID: -574760857174331573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348fe661185d4770800000000000000
+      internalID: 8596624095484806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6805523296dbae90800000000000000
+      internalID: -7013276071301412754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf5135058101a680800000000000000
+      internalID: -8745707330547392564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86651cc4c0e010c10800000000000000
+      internalID: 2017909554028828264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd807243a07a64a20800000000000000
+      internalID: 3046305860229204188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a62ad38869ce900800000000000000
+      internalID: 715111952738839095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0366cb9c990476df0800000000000000
+      internalID: -187109830253844944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c6a4a6883e8ba0800000000000000
+      internalID: -6084863895591795082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff19a937d771ea30800000000000000
+      internalID: 4242804090228776956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0bb904a319a2f0800000000000000
+      internalID: -961215450208072025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c9d363d1b1b380800000000000000
+      internalID: -8957182662391774264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df9cfd06d7c2d30800000000000000
+      internalID: 4408035990313762117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57a837b981a4de0800000000000000
+      internalID: -1348238082506590793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0f016b494f2ed0800000000000000
+      internalID: -2436648285284397320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa2d4acbf34bff0800000000000000
+      internalID: -21322018778338630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a136eba9a69a30800000000000000
+      internalID: 4221748256472934161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cbd1981059ac600800000000000000
+      internalID: 489367343351053334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611fff7a62edc59a0800000000000000
+      internalID: -6242870725833658090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2e1b667f447d80800000000000000
+      internalID: -8253884847041401165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32265b45e14a1f0800000000000000
+      internalID: -1034668665219177519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62644bb0add1f48f0800000000000000
+      internalID: -554191406806841818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cb8e523b0bb630800000000000000
+      internalID: 3943758209655489653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e9c40f790a30b0800000000000000
+      internalID: -5748271533239180992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8dbc995d2fc84a0800000000000000
+      internalID: -6589625155527649062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dff24f17e7b7060800000000000000
+      internalID: 6952289477669682511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a77953c4febaf0800000000000000
+      internalID: -378596198795729000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831cb848796ec83f0800000000000000
+      internalID: -897088687315369672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622ef632675dc040800000000000000
+      internalID: 4669484467994108525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7f9fa5c63633a0800000000000000
+      internalID: -6686096374102000358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae3e9e51f85e5e80800000000000000
+      internalID: -8188009278815191383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048ea6e9724b735d0800000000000000
+      internalID: -3082797337657284544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215c3da041601e60800000000000000
+      internalID: 7930945874211655982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54513f5a18510f720800000000000000
+      internalID: 2877823808468882757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce266963a086b10800000000000000
+      internalID: 1974839666169539663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2df51b1662304e0800000000000000
+      internalID: -2016726007102319943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e741e903ff1d00800000000000000
+      internalID: 945741670530935075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc9d20a47ec6330800000000000000
+      internalID: 3705590898480499733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40958d4b03250d70800000000000000
+      internalID: 9008645161076756557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442e50173041a570800000000000000
+      internalID: 8476126578929968205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7ea7cca6f8f700800000000000000
+      internalID: 574480174434647194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb976a580a9214c0800000000000000
+      internalID: -4318219732027728927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4522927bbde2cb0800000000000000
+      internalID: -4886726965934795562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e99873680549c400800000000000000
+      internalID: 344882748801456610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d87edcd782513d0800000000000000
+      internalID: -3236636236405306015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f64c4ecb9b2a3a0800000000000000
+      internalID: -6655553078357102814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c8ac45f667b78f0800000000000000
+      internalID: -541709109632005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad2cc3ff0378080800000000000000
+      internalID: -9185319042204640520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ef55731a1950d0800000000000000
+      internalID: -3433684570017373034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dfcf5530c6b1e50800000000000000
+      internalID: 6781132425519758656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121a7f0ecbd8f980800000000000000
+      internalID: -8504806218219777505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a156a77be44930800000000000000
+      internalID: 4126682057702221541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3cd2214cdbf7390800000000000000
+      internalID: -7818321778275662910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3631cb2febbf01c0800000000000000
+      internalID: -4535199663833139654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003d7f7f0a397330800000000000000
+      internalID: 3709059606354145287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b851fe3ee80bc0800000000000000
+      internalID: -3816538730091989294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baaa3e4ebadd1430800000000000000
+      internalID: 3755398175187970738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e7d92d760136e0800000000000000
+      internalID: -1859698036484611997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6f9ccc29ef03b0800000000000000
+      internalID: -5543956237648958120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304f384d537c0240800000000000000
+      internalID: 4759305750705029172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50a038103b2c830800000000000000
+      internalID: 4090028230680642998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb192b8ae00b3ae60800000000000000
+      internalID: 7972409342382215612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eca75b199991300800000000000000
+      internalID: 223378507625582136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3893cfb64a370600800000000000000
+      internalID: 434379964603930687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47026a571a4a5f080800000000000000
+      internalID: -9154229654190153612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62a6882629308f0800000000000000
+      internalID: -575455375480183082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95472da0923481000800000000000000
+      internalID: 6829242995340377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc95d27b7c2a73690800000000000000
+      internalID: -7622444865645880885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e287c0304da55550800000000000000
+      internalID: 6149011357452174055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25903b1deef5905b0800000000000000
+      internalID: -5401680798729172654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f68725f8be42b650800000000000000
+      internalID: 6247142189410256624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82997fd45cadc5f0800000000000000
+      internalID: -734741683665005937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe77fa9d36c45770800000000000000
+      internalID: 8598715556452335358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411d5455a068d1b0800000000000000
+      internalID: -5631645070825549500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90eb6159edcee550800000000000000
+      internalID: 6192112939658109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdc30f66f38f110800000000000000
+      internalID: 1294854604218752069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a5edac5d318400800000000000000
+      internalID: 324608116411179527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a72b61e29b17d60800000000000000
+      internalID: 7886288030102878789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24442c62c1b6edac0800000000000000
+      internalID: -3828504864564820926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e79ada2c82b60a0800000000000000
+      internalID: -6887366388530708900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ef0589d7262650800000000000000
+      internalID: 6207692951570606524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd4cb6041b3670e0800000000000000
+      internalID: -2272564004763447822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe9682d937034b90800000000000000
+      internalID: -7258950229464539401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130388b2d18cb6210800000000000000
+      internalID: 1327374542800695345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd064dbf3ea0af0800000000000000
+      internalID: -429280143721046892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc32354637125a50800000000000000
+      internalID: 6508289933360381127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c2022455501dd0800000000000000
+      internalID: -2517418371863886429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebed30de1822a230800000000000000
+      internalID: 3648522760931372011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2472f22cdae5e980800000000000000
+      internalID: -8510137689646664661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2bf5631b3c88a0800000000000000
+      internalID: -6301596824096789211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434857d6a90143e30800000000000000
+      internalID: 4482225784587912244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a7f29ce75729b0800000000000000
+      internalID: -5105014979011566804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b79de12cc54a350800000000000000
+      internalID: 6027044190139546427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce601f8873e1c80800000000000000
+      internalID: -8350175597799478159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbd085a724a9bf0800000000000000
+      internalID: -316867730545459208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc8e2d158a9f350800000000000000
+      internalID: 6051052643733262186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f6958f9eb41c440800000000000000
+      internalID: 4954324533350330265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12602fcac66ee00800000000000000
+      internalID: 1073665051225104831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4903a7a01fc3320800000000000000
+      internalID: 2539169317232088262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e42f16f3411d6be0800000000000000
+      internalID: -1482509718745307930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a801d3613aaa80800000000000000
+      internalID: -8454891045656155668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d65e73f065063cc0800000000000000
+      internalID: -3731789327269734700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9667b40ff81bdab0800000000000000
+      internalID: -4982361079180466533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76517c6433d98600800000000000000
+      internalID: 471139858148054650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541d035fb3994180800000000000000
+      internalID: -9130604319575567276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732f37f7febe4490800000000000000
+      internalID: -7760055135698476164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733cdde7afa9df90800000000000000
+      internalID: -6928313415947766924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4d24c4f60ef9c0800000000000000
+      internalID: -3891665379668439394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad8d3ba39bee5c40800000000000000
+      internalID: 5503094814158982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b228c8140df62d060800000000000000
+      internalID: 6976761712993927723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51302a3537eebd470800000000000000
+      internalID: 8420586107391050517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e7b9f803dce4b0800000000000000
+      internalID: -5409717016876031390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a300d2223b3e9a0800000000000000
+      internalID: -6204918902221161976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b759811296b090800000000000000
+      internalID: -8019061482470262593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ba12b741c53290800000000000000
+      internalID: -7911204656731475225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f43942627122d0800000000000000
+      internalID: -3305234885052665301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3207709b7596f11f0800000000000000
+      internalID: -1072022360803545053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764d1a8e5070b4e0800000000000000
+      internalID: -1967949485814495623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e1db16f3ac29f0800000000000000
+      internalID: -491837981866203835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03591dc2e1400d4b0800000000000000
+      internalID: -5417825824079243984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91906d156756e4500800000000000000
+      internalID: 382354577226598681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e8ca8ea8160790800000000000000
+      internalID: -7564331386190371923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203622f7154f34ee0800000000000000
+      internalID: -1277909238380600574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f198332797f020800000000000000
+      internalID: 2375533505989965179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e934e99a68fa090800000000000000
+      internalID: -8021044348260737501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

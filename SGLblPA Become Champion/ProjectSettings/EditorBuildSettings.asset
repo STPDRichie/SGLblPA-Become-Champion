@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Communal Flat Dungeon.unity
     guid: f9dbfe8b15244fd4aaf02585be2b1936
+  - enabled: 1
+    path: Assets/Scenes/Dark Castle Dungeon.unity
+    guid: a794e8e99118cea4693ba048ae24ea8a
+  - enabled: 1
+    path: Assets/Scenes/Abandoned Hospital Dungeon.unity
+    guid: 2691fea094c41a046ba7293684fef790
+  - enabled: 1
+    path: Assets/Scenes/Hub Boss.unity
+    guid: 1dee42ca70da21a45b842f101c6e04cd
   m_configObjects: {}

@@ -26,12 +26,8 @@ public class EnteringDoor : MonoBehaviour
         playerDetected = Physics2D.OverlapBox(doorPos.position, new Vector2(width, height), 0, whatIsPlayer);
 
         if (playerDetected == true) 
-        {
             if (Input.GetKeyDown(KeyCode.E)) 
-            {
                 sceneSwitch.SwitchScene(sceneName);
-            }
-        }
     }
 
     private void OnDrawGizmosSelected() 

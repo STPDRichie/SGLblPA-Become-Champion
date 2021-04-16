@@ -6,6 +6,7 @@ public class MovingTo : MonoBehaviour
 {
     private bool playerDetected;
     public GameObject Player;
+    
     public Transform door1;
     public float width1;
     public float height1;

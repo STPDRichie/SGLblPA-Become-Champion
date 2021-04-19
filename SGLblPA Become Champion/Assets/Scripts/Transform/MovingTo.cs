@@ -17,10 +17,17 @@ public class MovingTo : MonoBehaviour
 
     public LayerMask whatIsPlayer;
 
+    public bool twoWay;
+
     private void Update() 
     {
-        CheckAndMove(door1, door2, width1, height1);
-        CheckAndMove(door2, door1, width2, height2);
+        if (twoWay) 
+        {
+            CheckAndMove(door1, door2, width1, height1);
+            CheckAndMove(door2, door1, width2, height2);
+        }
+        else 
+            CheckAndMove(door1, door2, width1, height1);
     }
 
     private void CheckAndMove(Transform moveFrom, Transform moveTo, float width, float height) 

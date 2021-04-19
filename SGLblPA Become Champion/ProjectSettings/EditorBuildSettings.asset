@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Hub Boss.unity
     guid: 1dee42ca70da21a45b842f101c6e04cd
+  - enabled: 1
+    path: Assets/Scenes/Rich House Boss.unity
+    guid: 63b82f58de7379c428dd4e2bbae0457b
   m_configObjects: {}

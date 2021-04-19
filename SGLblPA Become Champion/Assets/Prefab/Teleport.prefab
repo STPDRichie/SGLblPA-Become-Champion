@@ -53,3 +53,4 @@ MonoBehaviour:
   whatIsPlayer:
     serializedVersion: 2
     m_Bits: 64
+  twoWay: 1

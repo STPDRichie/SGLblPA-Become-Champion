@@ -1,0 +1,5820 @@
+fileFormatVersion: 2
+guid: ce755f3fc5a502a4cb479a286f0f0726
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3216604974016247786
+    second: Communal Flat Dungeon Tilemap_0
+  - first:
+      213: -3869547440045142765
+    second: Communal Flat Dungeon Tilemap_1
+  - first:
+      213: -6101697172882528381
+    second: Communal Flat Dungeon Tilemap_2
+  - first:
+      213: -7528810903279999762
+    second: Communal Flat Dungeon Tilemap_3
+  - first:
+      213: -1277858041427417221
+    second: Communal Flat Dungeon Tilemap_4
+  - first:
+      213: -453840054506079683
+    second: Communal Flat Dungeon Tilemap_5
+  - first:
+      213: -726426771247348314
+    second: Communal Flat Dungeon Tilemap_6
+  - first:
+      213: 5729975098995365224
+    second: Communal Flat Dungeon Tilemap_7
+  - first:
+      213: -6591180048948940073
+    second: Communal Flat Dungeon Tilemap_8
+  - first:
+      213: -3651123204206122805
+    second: Communal Flat Dungeon Tilemap_9
+  - first:
+      213: -4635709456013753358
+    second: Communal Flat Dungeon Tilemap_10
+  - first:
+      213: 3130641977837366963
+    second: Communal Flat Dungeon Tilemap_11
+  - first:
+      213: 1610052498799300541
+    second: Communal Flat Dungeon Tilemap_12
+  - first:
+      213: -3205317977328060762
+    second: Communal Flat Dungeon Tilemap_13
+  - first:
+      213: -173686631122109214
+    second: Communal Flat Dungeon Tilemap_14
+  - first:
+      213: 1329587442896269354
+    second: Communal Flat Dungeon Tilemap_15
+  - first:
+      213: 7076888875110110618
+    second: Communal Flat Dungeon Tilemap_16
+  - first:
+      213: 1267728780103484424
+    second: Communal Flat Dungeon Tilemap_17
+  - first:
+      213: 8032509499762982727
+    second: Communal Flat Dungeon Tilemap_18
+  - first:
+      213: 3845446072142503992
+    second: Communal Flat Dungeon Tilemap_19
+  - first:
+      213: 3852250417129280786
+    second: Communal Flat Dungeon Tilemap_20
+  - first:
+      213: 1617298251562364527
+    second: Communal Flat Dungeon Tilemap_21
+  - first:
+      213: -3203305091227120476
+    second: Communal Flat Dungeon Tilemap_22
+  - first:
+      213: -1385974486880907109
+    second: Communal Flat Dungeon Tilemap_23
+  - first:
+      213: 1609848065456259251
+    second: Communal Flat Dungeon Tilemap_24
+  - first:
+      213: -4730505193935481511
+    second: Communal Flat Dungeon Tilemap_25
+  - first:
+      213: -2630221970279630140
+    second: Communal Flat Dungeon Tilemap_26
+  - first:
+      213: -8992586819195937082
+    second: Communal Flat Dungeon Tilemap_27
+  - first:
+      213: -6245297034948773897
+    second: Communal Flat Dungeon Tilemap_28
+  - first:
+      213: -3224310333206779081
+    second: Communal Flat Dungeon Tilemap_29
+  - first:
+      213: 2363231956033313999
+    second: Communal Flat Dungeon Tilemap_30
+  - first:
+      213: -1595808367646853768
+    second: Communal Flat Dungeon Tilemap_31
+  - first:
+      213: -3653828651734601305
+    second: Communal Flat Dungeon Tilemap_32
+  - first:
+      213: 8885788814864606689
+    second: Communal Flat Dungeon Tilemap_33
+  - first:
+      213: 1627609643010772069
+    second: Communal Flat Dungeon Tilemap_34
+  - first:
+      213: -340981010147116032
+    second: Communal Flat Dungeon Tilemap_35
+  - first:
+      213: 2763666317441887609
+    second: Communal Flat Dungeon Tilemap_36
+  - first:
+      213: -4852029049407232773
+    second: Communal Flat Dungeon Tilemap_37
+  - first:
+      213: -4388230820629372099
+    second: Communal Flat Dungeon Tilemap_38
+  - first:
+      213: -2048060167667783740
+    second: Communal Flat Dungeon Tilemap_39
+  - first:
+      213: 6394501200277911069
+    second: Communal Flat Dungeon Tilemap_40
+  - first:
+      213: -2302584341068588655
+    second: Communal Flat Dungeon Tilemap_41
+  - first:
+      213: 2124038244066469444
+    second: Communal Flat Dungeon Tilemap_42
+  - first:
+      213: 4393115427355117344
+    second: Communal Flat Dungeon Tilemap_43
+  - first:
+      213: 3176723138697639869
+    second: Communal Flat Dungeon Tilemap_44
+  - first:
+      213: -8262550287356919841
+    second: Communal Flat Dungeon Tilemap_45
+  - first:
+      213: 42762864752504995
+    second: Communal Flat Dungeon Tilemap_46
+  - first:
+      213: 6774399158011226457
+    second: Communal Flat Dungeon Tilemap_47
+  - first:
+      213: 8304179757752357944
+    second: Communal Flat Dungeon Tilemap_48
+  - first:
+      213: -8870355093808506467
+    second: Communal Flat Dungeon Tilemap_49
+  - first:
+      213: -2580545918133642894
+    second: Communal Flat Dungeon Tilemap_50
+  - first:
+      213: -2243462716287808569
+    second: Communal Flat Dungeon Tilemap_51
+  - first:
+      213: 6909600305374085302
+    second: Communal Flat Dungeon Tilemap_52
+  - first:
+      213: -3949653907744981094
+    second: Communal Flat Dungeon Tilemap_53
+  - first:
+      213: -4800008600313105438
+    second: Communal Flat Dungeon Tilemap_54
+  - first:
+      213: -211917383476433877
+    second: Communal Flat Dungeon Tilemap_55
+  - first:
+      213: -9116265172354758163
+    second: Communal Flat Dungeon Tilemap_56
+  - first:
+      213: -3147951459268670836
+    second: Communal Flat Dungeon Tilemap_57
+  - first:
+      213: -8386582280404586806
+    second: Communal Flat Dungeon Tilemap_58
+  - first:
+      213: -5664423594539142510
+    second: Communal Flat Dungeon Tilemap_59
+  - first:
+      213: -2727597359234956720
+    second: Communal Flat Dungeon Tilemap_60
+  - first:
+      213: 8896934867202337363
+    second: Communal Flat Dungeon Tilemap_61
+  - first:
+      213: -3495780643308379727
+    second: Communal Flat Dungeon Tilemap_62
+  - first:
+      213: -3009069396688416994
+    second: Communal Flat Dungeon Tilemap_63
+  - first:
+      213: 3320746482064146491
+    second: Communal Flat Dungeon Tilemap_64
+  - first:
+      213: -8458189573379188684
+    second: Communal Flat Dungeon Tilemap_65
+  - first:
+      213: 8899211256789567256
+    second: Communal Flat Dungeon Tilemap_66
+  - first:
+      213: 5555965033416972102
+    second: Communal Flat Dungeon Tilemap_67
+  - first:
+      213: -4222904684371343868
+    second: Communal Flat Dungeon Tilemap_68
+  - first:
+      213: 4873345926241081579
+    second: Communal Flat Dungeon Tilemap_69
+  - first:
+      213: -621444958637798643
+    second: Communal Flat Dungeon Tilemap_70
+  - first:
+      213: -269669377994068820
+    second: Communal Flat Dungeon Tilemap_71
+  - first:
+      213: 576657470759228940
+    second: Communal Flat Dungeon Tilemap_72
+  - first:
+      213: -5289472374903305928
+    second: Communal Flat Dungeon Tilemap_73
+  - first:
+      213: -1770956385939423014
+    second: Communal Flat Dungeon Tilemap_74
+  - first:
+      213: 6554880746374500705
+    second: Communal Flat Dungeon Tilemap_75
+  - first:
+      213: -3501950788088533505
+    second: Communal Flat Dungeon Tilemap_76
+  - first:
+      213: -2636832279577242798
+    second: Communal Flat Dungeon Tilemap_77
+  - first:
+      213: -4552812992897016552
+    second: Communal Flat Dungeon Tilemap_78
+  - first:
+      213: -1100741187034521657
+    second: Communal Flat Dungeon Tilemap_79
+  - first:
+      213: 7435496098829962533
+    second: Communal Flat Dungeon Tilemap_80
+  - first:
+      213: -8232020198713655763
+    second: Communal Flat Dungeon Tilemap_81
+  - first:
+      213: -3406886693209168703
+    second: Communal Flat Dungeon Tilemap_82
+  - first:
+      213: -3493256755423135048
+    second: Communal Flat Dungeon Tilemap_83
+  - first:
+      213: -2938302006360026227
+    second: Communal Flat Dungeon Tilemap_84
+  - first:
+      213: 5845955917126682798
+    second: Communal Flat Dungeon Tilemap_85
+  - first:
+      213: 7348646514268050991
+    second: Communal Flat Dungeon Tilemap_86
+  - first:
+      213: 3834839817595184759
+    second: Communal Flat Dungeon Tilemap_87
+  - first:
+      213: -2981195921580082185
+    second: Communal Flat Dungeon Tilemap_88
+  - first:
+      213: -6282874036489878730
+    second: Communal Flat Dungeon Tilemap_89
+  - first:
+      213: 5381732911754962249
+    second: Communal Flat Dungeon Tilemap_90
+  - first:
+      213: -8083016153294705613
+    second: Communal Flat Dungeon Tilemap_91
+  - first:
+      213: 3989678715692305964
+    second: Communal Flat Dungeon Tilemap_92
+  - first:
+      213: -1016416304790634393
+    second: Communal Flat Dungeon Tilemap_93
+  - first:
+      213: 7424575635138057167
+    second: Communal Flat Dungeon Tilemap_94
+  - first:
+      213: -1241669256388218599
+    second: Communal Flat Dungeon Tilemap_95
+  - first:
+      213: -3688816637188595095
+    second: Communal Flat Dungeon Tilemap_96
+  - first:
+      213: -587825664283733679
+    second: Communal Flat Dungeon Tilemap_97
+  - first:
+      213: -6947536608496991959
+    second: Communal Flat Dungeon Tilemap_98
+  - first:
+      213: 3443002722644302257
+    second: Communal Flat Dungeon Tilemap_99
+  - first:
+      213: -3242294572079937464
+    second: Communal Flat Dungeon Tilemap_100
+  - first:
+      213: -7815404512603197332
+    second: Communal Flat Dungeon Tilemap_101
+  - first:
+      213: 7759221935429901284
+    second: Communal Flat Dungeon Tilemap_102
+  - first:
+      213: -3648981120667963259
+    second: Communal Flat Dungeon Tilemap_103
+  - first:
+      213: -4814789629034018007
+    second: Communal Flat Dungeon Tilemap_104
+  - first:
+      213: -6271125835242678552
+    second: Communal Flat Dungeon Tilemap_105
+  - first:
+      213: -7488447104593676301
+    second: Communal Flat Dungeon Tilemap_106
+  - first:
+      213: 2340447145233196154
+    second: Communal Flat Dungeon Tilemap_107
+  - first:
+      213: -8171138289530150426
+    second: Communal Flat Dungeon Tilemap_108
+  - first:
+      213: -1917219727224328038
+    second: Communal Flat Dungeon Tilemap_109
+  - first:
+      213: 7345389639881393186
+    second: Communal Flat Dungeon Tilemap_110
+  - first:
+      213: 9202672171753720874
+    second: Communal Flat Dungeon Tilemap_111
+  - first:
+      213: -1113839442036271655
+    second: Communal Flat Dungeon Tilemap_112
+  - first:
+      213: 945739574069968660
+    second: Communal Flat Dungeon Tilemap_113
+  - first:
+      213: -1244747186805859738
+    second: Communal Flat Dungeon Tilemap_114
+  - first:
+      213: -2650029709289058784
+    second: Communal Flat Dungeon Tilemap_115
+  - first:
+      213: 326538795464380869
+    second: Communal Flat Dungeon Tilemap_116
+  - first:
+      213: -7598825896598710825
+    second: Communal Flat Dungeon Tilemap_117
+  - first:
+      213: -2748668631638801972
+    second: Communal Flat Dungeon Tilemap_118
+  - first:
+      213: 2919649094248559000
+    second: Communal Flat Dungeon Tilemap_119
+  - first:
+      213: 7466815673795351066
+    second: Communal Flat Dungeon Tilemap_120
+  - first:
+      213: 3243326852054308826
+    second: Communal Flat Dungeon Tilemap_121
+  - first:
+      213: -4788666556984712700
+    second: Communal Flat Dungeon Tilemap_122
+  - first:
+      213: -7177526106801285531
+    second: Communal Flat Dungeon Tilemap_123
+  - first:
+      213: -1678059709985877876
+    second: Communal Flat Dungeon Tilemap_124
+  - first:
+      213: -4887373101975990757
+    second: Communal Flat Dungeon Tilemap_125
+  - first:
+      213: 8340135554750089764
+    second: Communal Flat Dungeon Tilemap_126
+  - first:
+      213: 4217608267854150310
+    second: Communal Flat Dungeon Tilemap_127
+  - first:
+      213: 1796332841231542528
+    second: Communal Flat Dungeon Tilemap_128
+  - first:
+      213: 5885349251429006454
+    second: Communal Flat Dungeon Tilemap_129
+  - first:
+      213: 5157600827875646342
+    second: Communal Flat Dungeon Tilemap_130
+  - first:
+      213: -6646897315666707324
+    second: Communal Flat Dungeon Tilemap_131
+  - first:
+      213: 6992094366185780392
+    second: Communal Flat Dungeon Tilemap_132
+  - first:
+      213: 5602153727682073655
+    second: Communal Flat Dungeon Tilemap_133
+  - first:
+      213: 2748604829742463541
+    second: Communal Flat Dungeon Tilemap_134
+  - first:
+      213: -905478708809796865
+    second: Communal Flat Dungeon Tilemap_135
+  - first:
+      213: 6145186519047239246
+    second: Communal Flat Dungeon Tilemap_136
+  - first:
+      213: -1027314435546127596
+    second: Communal Flat Dungeon Tilemap_137
+  - first:
+      213: -2647383050811487677
+    second: Communal Flat Dungeon Tilemap_138
+  - first:
+      213: 3986590103235842842
+    second: Communal Flat Dungeon Tilemap_139
+  - first:
+      213: 9043392108183328882
+    second: Communal Flat Dungeon Tilemap_140
+  - first:
+      213: -4021219215070228319
+    second: Communal Flat Dungeon Tilemap_141
+  - first:
+      213: 9188517998267052600
+    second: Communal Flat Dungeon Tilemap_142
+  - first:
+      213: -4710787211865474598
+    second: Communal Flat Dungeon Tilemap_143
+  - first:
+      213: 3059046446280109409
+    second: Communal Flat Dungeon Tilemap_144
+  - first:
+      213: 8095855979661485581
+    second: Communal Flat Dungeon Tilemap_145
+  - first:
+      213: -6010059454725751673
+    second: Communal Flat Dungeon Tilemap_146
+  - first:
+      213: 7889360464382498479
+    second: Communal Flat Dungeon Tilemap_147
+  - first:
+      213: 4041828713799825669
+    second: Communal Flat Dungeon Tilemap_148
+  - first:
+      213: -7882544843798536878
+    second: Communal Flat Dungeon Tilemap_149
+  - first:
+      213: 5139701462305914222
+    second: Communal Flat Dungeon Tilemap_150
+  - first:
+      213: 523822709462963502
+    second: Communal Flat Dungeon Tilemap_151
+  - first:
+      213: -5715530072153971696
+    second: Communal Flat Dungeon Tilemap_152
+  - first:
+      213: 7453520607522678894
+    second: Communal Flat Dungeon Tilemap_153
+  - first:
+      213: 5083078887517558693
+    second: Communal Flat Dungeon Tilemap_154
+  - first:
+      213: 8920551549608772666
+    second: Communal Flat Dungeon Tilemap_155
+  - first:
+      213: -5958097469623262908
+    second: Communal Flat Dungeon Tilemap_156
+  - first:
+      213: 5822199142759078830
+    second: Communal Flat Dungeon Tilemap_157
+  - first:
+      213: 2276600009682919624
+    second: Communal Flat Dungeon Tilemap_158
+  - first:
+      213: 6910628323130851114
+    second: Communal Flat Dungeon Tilemap_159
+  - first:
+      213: -5937132447542554028
+    second: Communal Flat Dungeon Tilemap_160
+  - first:
+      213: -2855295227709271445
+    second: Communal Flat Dungeon Tilemap_161
+  - first:
+      213: 418355730073217098
+    second: Communal Flat Dungeon Tilemap_162
+  - first:
+      213: 4162261547732574996
+    second: Communal Flat Dungeon Tilemap_163
+  - first:
+      213: 2490260375840327920
+    second: Communal Flat Dungeon Tilemap_164
+  - first:
+      213: -2505504974115105171
+    second: Communal Flat Dungeon Tilemap_165
+  - first:
+      213: -2506039406192515562
+    second: Communal Flat Dungeon Tilemap_166
+  - first:
+      213: 3692196444312166369
+    second: Communal Flat Dungeon Tilemap_167
+  - first:
+      213: 8880645624688308781
+    second: Communal Flat Dungeon Tilemap_168
+  - first:
+      213: -853950324929980102
+    second: Communal Flat Dungeon Tilemap_169
+  - first:
+      213: -2964832461981886876
+    second: Communal Flat Dungeon Tilemap_170
+  - first:
+      213: 7478165599005759924
+    second: Communal Flat Dungeon Tilemap_171
+  - first:
+      213: -2902506221258084667
+    second: Communal Flat Dungeon Tilemap_172
+  - first:
+      213: -3242537297239902581
+    second: Communal Flat Dungeon Tilemap_173
+  - first:
+      213: 620821762379610591
+    second: Communal Flat Dungeon Tilemap_174
+  - first:
+      213: 4540850369841683377
+    second: Communal Flat Dungeon Tilemap_175
+  - first:
+      213: 1587059947000656979
+    second: Communal Flat Dungeon Tilemap_176
+  - first:
+      213: -3544524540684387924
+    second: Communal Flat Dungeon Tilemap_177
+  - first:
+      213: -8463303641287813645
+    second: Communal Flat Dungeon Tilemap_178
+  - first:
+      213: 2656130513286393494
+    second: Communal Flat Dungeon Tilemap_179
+  - first:
+      213: -3744320672605242646
+    second: Communal Flat Dungeon Tilemap_180
+  - first:
+      213: -3408273761046326876
+    second: Communal Flat Dungeon Tilemap_181
+  - first:
+      213: 1571480405682807994
+    second: Communal Flat Dungeon Tilemap_182
+  - first:
+      213: 7434421004778992545
+    second: Communal Flat Dungeon Tilemap_183
+  - first:
+      213: 2015727525291320266
+    second: Communal Flat Dungeon Tilemap_184
+  - first:
+      213: 7165450608532050874
+    second: Communal Flat Dungeon Tilemap_185
+  - first:
+      213: -5718307922640983397
+    second: Communal Flat Dungeon Tilemap_186
+  - first:
+      213: -2695253523277597611
+    second: Communal Flat Dungeon Tilemap_187
+  - first:
+      213: -4506873155021875213
+    second: Communal Flat Dungeon Tilemap_188
+  - first:
+      213: -9020536714194122943
+    second: Communal Flat Dungeon Tilemap_189
+  - first:
+      213: -6918554431628107936
+    second: Communal Flat Dungeon Tilemap_190
+  - first:
+      213: 7422728687480951627
+    second: Communal Flat Dungeon Tilemap_191
+  - first:
+      213: -3901529564586172297
+    second: Communal Flat Dungeon Tilemap_192
+  - first:
+      213: -3481188426842016831
+    second: Communal Flat Dungeon Tilemap_193
+  - first:
+      213: -6360392269209658504
+    second: Communal Flat Dungeon Tilemap_194
+  - first:
+      213: -3912775348412398408
+    second: Communal Flat Dungeon Tilemap_195
+  - first:
+      213: -7236097040105781855
+    second: Communal Flat Dungeon Tilemap_196
+  - first:
+      213: 2374253717394225363
+    second: Communal Flat Dungeon Tilemap_197
+  - first:
+      213: -6913159243043646535
+    second: Communal Flat Dungeon Tilemap_198
+  - first:
+      213: -1218544016592727026
+    second: Communal Flat Dungeon Tilemap_199
+  - first:
+      213: -6260958935344542199
+    second: Communal Flat Dungeon Tilemap_200
+  - first:
+      213: 213284278565135280
+    second: Communal Flat Dungeon Tilemap_201
+  - first:
+      213: -7512025045322589557
+    second: Communal Flat Dungeon Tilemap_202
+  - first:
+      213: -1399817100616977671
+    second: Communal Flat Dungeon Tilemap_203
+  - first:
+      213: -866756186221206464
+    second: Communal Flat Dungeon Tilemap_204
+  - first:
+      213: 607486999028346398
+    second: Communal Flat Dungeon Tilemap_205
+  - first:
+      213: 891305514615161833
+    second: Communal Flat Dungeon Tilemap_206
+  - first:
+      213: -2334990477915301442
+    second: Communal Flat Dungeon Tilemap_207
+  - first:
+      213: 5208743529722018512
+    second: Communal Flat Dungeon Tilemap_208
+  - first:
+      213: 7387640789773873254
+    second: Communal Flat Dungeon Tilemap_209
+  - first:
+      213: 4595553271723783393
+    second: Communal Flat Dungeon Tilemap_210
+  - first:
+      213: 1086601554024709772
+    second: Communal Flat Dungeon Tilemap_211
+  - first:
+      213: -6689611085170798743
+    second: Communal Flat Dungeon Tilemap_212
+  - first:
+      213: 1309270617490666639
+    second: Communal Flat Dungeon Tilemap_213
+  - first:
+      213: -6923557601648155829
+    second: Communal Flat Dungeon Tilemap_214
+  - first:
+      213: 6579191131371264221
+    second: Communal Flat Dungeon Tilemap_215
+  - first:
+      213: -3809476656918334895
+    second: Communal Flat Dungeon Tilemap_216
+  - first:
+      213: -6452612498422730803
+    second: Communal Flat Dungeon Tilemap_217
+  - first:
+      213: -4442397773463510112
+    second: Communal Flat Dungeon Tilemap_218
+  - first:
+      213: -7447409548185035628
+    second: Communal Flat Dungeon Tilemap_219
+  - first:
+      213: 1945700271810171247
+    second: Communal Flat Dungeon Tilemap_220
+  - first:
+      213: -3655733922619690255
+    second: Communal Flat Dungeon Tilemap_221
+  - first:
+      213: -1721265583500415581
+    second: Communal Flat Dungeon Tilemap_222
+  - first:
+      213: 6751147057692269767
+    second: Communal Flat Dungeon Tilemap_223
+  - first:
+      213: -2210448493219203993
+    second: Communal Flat Dungeon Tilemap_224
+  - first:
+      213: 5425519471211168641
+    second: Communal Flat Dungeon Tilemap_225
+  - first:
+      213: -1387583915648680193
+    second: Communal Flat Dungeon Tilemap_226
+  - first:
+      213: -6162636980607418793
+    second: Communal Flat Dungeon Tilemap_227
+  - first:
+      213: 6456331579730683953
+    second: Communal Flat Dungeon Tilemap_228
+  - first:
+      213: 625634428820057368
+    second: Communal Flat Dungeon Tilemap_229
+  - first:
+      213: -1437607545644809885
+    second: Communal Flat Dungeon Tilemap_230
+  - first:
+      213: -6040991283009634654
+    second: Communal Flat Dungeon Tilemap_231
+  - first:
+      213: -1672950290625894810
+    second: Communal Flat Dungeon Tilemap_232
+  - first:
+      213: -85463063393021390
+    second: Communal Flat Dungeon Tilemap_233
+  - first:
+      213: 1828281115005664595
+    second: Communal Flat Dungeon Tilemap_234
+  - first:
+      213: -3258567665398545754
+    second: Communal Flat Dungeon Tilemap_235
+  - first:
+      213: 5807300395429087707
+    second: Communal Flat Dungeon Tilemap_236
+  - first:
+      213: -1649382941197020700
+    second: Communal Flat Dungeon Tilemap_237
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618c10581d25c53d0800000000000000
+      internalID: -3216604974016247786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4692ea1b9c4ac0800000000000000
+      internalID: -3869547440045142765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387e45bdfba625ba0800000000000000
+      internalID: -6101697172882528381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee468e07f5a448790800000000000000
+      internalID: -7528810903279999762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77a757b1e2244ee0800000000000000
+      internalID: -1277858041427417221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a325effd2a3b9f0800000000000000
+      internalID: -453840054506079683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5c77843b63be5f0800000000000000
+      internalID: -726426771247348314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d37b6ef5f48f40800000000000000
+      internalID: 5729975098995365224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b1c3caac6784a0800000000000000
+      internalID: -6591180048948940073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8ab1e4aca945dc0800000000000000
+      internalID: -3651123204206122805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f381609fc6aaafb0800000000000000
+      internalID: -4635709456013753358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be2cefba46427b20800000000000000
+      internalID: 3130641977837366963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf89ac973e085610800000000000000
+      internalID: 1610052498799300541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ff29384c6483d0800000000000000
+      internalID: -3205317977328060762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7bb1ede0f69df0800000000000000
+      internalID: -173686631122109214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f6af1cb4a37210800000000000000
+      internalID: 1329587442896269354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951adbdfe8263260800000000000000
+      internalID: 7076888875110110618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8048b99db90e79110800000000000000
+      internalID: 1267728780103484424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb25cf4d4397f60800000000000000
+      internalID: 8032509499762982727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a9fc14d4cd5530800000000000000
+      internalID: 3845446072142503992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21557d22851f57530800000000000000
+      internalID: 3852250417129280786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2c34e03cc17610800000000000000
+      internalID: 1617298251562364527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac053acdf29b83d0800000000000000
+      internalID: -3203305091227120476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9095b12c8704cce0800000000000000
+      internalID: -1385974486880907109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ced34944575610800000000000000
+      internalID: 1609848065456259251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d553e69ed95eb0800000000000000
+      internalID: -4730505193935481511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cafd05bd039f7bd0800000000000000
+      internalID: -2630221970279630140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce57f5cee9e33380800000000000000
+      internalID: -8992586819195937082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f31b8f6f3459a0800000000000000
+      internalID: -6245297034948773897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ba697c5d2f043d0800000000000000
+      internalID: -3224310333206779081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc973d61f2ebc020800000000000000
+      internalID: 2363231956033313999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87530dc9ebc8ad9e0800000000000000
+      internalID: -1595808367646853768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f637333efa4dc0800000000000000
+      internalID: -3653828651734601305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 451
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e42329d9a05b70800000000000000
+      internalID: 8885788814864606689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c48acc85e669610800000000000000
+      internalID: 1627609643010772069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf60fe397944bf0800000000000000
+      internalID: -340981010147116032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de5d88fd38a5620800000000000000
+      internalID: 2763666317441887609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a43669412aacb0800000000000000
+      internalID: -4852029049407232773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3327f7815fd913c0800000000000000
+      internalID: -4388230820629372099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7e88be024d393e0800000000000000
+      internalID: -2048060167667783740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16bf5e46f4ddb850800000000000000
+      internalID: 6394501200277911069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199da3dcdb39b00e0800000000000000
+      internalID: -2302584341068588655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462de287891a7d10800000000000000
+      internalID: 2124038244066469444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0274ac8943b77fc30800000000000000
+      internalID: 4393115427355117344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db736d71ddcf51c20800000000000000
+      internalID: 3176723138697639869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 433
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdff94f5a46855d80800000000000000
+      internalID: -8262550287356919841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b623599ce79000800000000000000
+      internalID: 42762864752504995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e6f35420830e50800000000000000
+      internalID: 6774399158011226457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83491d30e7f5e3370800000000000000
+      internalID: 8304179757752357944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9997f11a0b26e480800000000000000
+      internalID: -8870355093808506467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795f07e82f003cd0800000000000000
+      internalID: -2580545918133642894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb05d0cb8e9dd0e0800000000000000
+      internalID: -2243462716287808569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c0cd7ed4d3ef50800000000000000
+      internalID: 6909600305374085302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f702372b20039c0800000000000000
+      internalID: -3949653907744981094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3748b0c91f26db0800000000000000
+      internalID: -4800008600313105438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c2824334e1f0df0800000000000000
+      internalID: -211917383476433877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9878330258c7180800000000000000
+      internalID: -9116265172354758163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4e1c83da3054d0800000000000000
+      internalID: -3147951459268670836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace26e899dfdc9b80800000000000000
+      internalID: -8386582280404586806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292372e80cce361b0800000000000000
+      internalID: -5664423594539142510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c18837a0a52ad0800000000000000
+      internalID: -2727597359234956720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae16daf13487b70800000000000000
+      internalID: 8896934867202337363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1eaeeb60e7c7fc0800000000000000
+      internalID: -3495780643308379727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 397
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f43e19353ad36d0800000000000000
+      internalID: -3009069396688416994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cf84d459a51e20800000000000000
+      internalID: 3320746482064146491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43812db75697e9a80800000000000000
+      internalID: -8458189573379188684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817891eec79508b70800000000000000
+      internalID: 8899211256789567256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475f49d2c0ca1d40800000000000000
+      internalID: 5555965033416972102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40686bf309a3565c0800000000000000
+      internalID: -4222904684371343868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be85231cc4a91a340800000000000000
+      internalID: 4873345926241081579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bcfe84a1f2067f0800000000000000
+      internalID: -621444958637798643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacecd52121f14cf0800000000000000
+      internalID: -269669377994068820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06dda51ae2b00800800000000000000
+      internalID: 576657470759228940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83985ac56e40896b0800000000000000
+      internalID: -5289472374903305928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00f57cc8c4c67e0800000000000000
+      internalID: -1770956385939423014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16113b04f4d97fa50800000000000000
+      internalID: 6554880746374500705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6517ff42966fc0800000000000000
+      internalID: -3501950788088533505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d3832307186bd0800000000000000
+      internalID: -2636832279577242798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d179d64b821d0c0800000000000000
+      internalID: -4552812992897016552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5a2de8b169b0f0800000000000000
+      internalID: -1100741187034521657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d00939e40303760800000000000000
+      internalID: 7435496098829962533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef4df8e3df1cd80800000000000000
+      internalID: -8232020198713655763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4234d5a9e48b0d0800000000000000
+      internalID: -3406886693209168703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba35cf2d75758fc0800000000000000
+      internalID: -3493256755423135048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d71c94ed0937d0800000000000000
+      internalID: -2938302006360026227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8cde4fee1012150800000000000000
+      internalID: 5845955917126682798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261cd6e113abf560800000000000000
+      internalID: 7348646514268050991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e84a0f76183530800000000000000
+      internalID: 3834839817595184759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3068ba1aa0a6d0800000000000000
+      internalID: -2981195921580082185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330f761a5fbec8a0800000000000000
+      internalID: -6282874036489878730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ee21d191cfaa40800000000000000
+      internalID: 5381732911754962249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cef1d52ab53df80800000000000000
+      internalID: -8083016153294705613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec6c857af2e5730800000000000000
+      internalID: 3989678715692305964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7600a0981c6f4e1f0800000000000000
+      internalID: -1016416304790634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39c6cf334690760800000000000000
+      internalID: 7424575635138057167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f474d364b4cee0800000000000000
+      internalID: -1241669256388218599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a2da00d0beccc0800000000000000
+      internalID: -3688816637188595095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151928a3caf97d7f0800000000000000
+      internalID: -587825664283733679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c382a344659f90800000000000000
+      internalID: -6947536608496991959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b99ae30cb008cf20800000000000000
+      internalID: 3443002722644302257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488ffdd34e0103d0800000000000000
+      internalID: -3242294572079937464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c603d4ae00b1a8390800000000000000
+      internalID: -7815404512603197332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebd7ba7d3b4eab60800000000000000
+      internalID: 7759221935429901284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ba7ef0073c5dc0800000000000000
+      internalID: -3648981120667963259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b413d975e6e2db0800000000000000
+      internalID: -4814789629034018007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d598574c78f8a0800000000000000
+      internalID: -6271125835242678552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7346ba801b31890800000000000000
+      internalID: -7488447104593676301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a3334740fa7020800000000000000
+      internalID: 2340447145233196154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e166f9a4094a9e80800000000000000
+      internalID: -8171138289530150426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903c62e0daa465e0800000000000000
+      internalID: -1917219727224328038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22407fdb5f010f560800000000000000
+      internalID: 7345389639881393186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc0c5159576bf70800000000000000
+      internalID: 9202672171753720874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5db98cde8da80f0800000000000000
+      internalID: -1113839442036271655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 307
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3872c121ff1d00800000000000000
+      internalID: 945739574069968660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a154f4705c9bee0800000000000000
+      internalID: -1244747186805859738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e08951504393bd0800000000000000
+      internalID: -2650029709289058784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d90ded49188400800000000000000
+      internalID: 326538795464380869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d13b7b1c8b8690800000000000000
+      internalID: -7598825896598710825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc109ed4174cad9d0800000000000000
+      internalID: -2748668631638801972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f97bd16da48820800000000000000
+      internalID: 2919649094248559000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1214ef5b457f9760800000000000000
+      internalID: 7466815673795351066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7de2b869c920d20800000000000000
+      internalID: 3243326852054308826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402222b432d3b8db0800000000000000
+      internalID: -4788666556984712700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665406b80e446c90800000000000000
+      internalID: -7177526106801285531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809562a59556b8e0800000000000000
+      internalID: -1678059709985877876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0ce3ee009c2cb0800000000000000
+      internalID: -4887373101975990757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a0c7f591d1eb370800000000000000
+      internalID: 8340135554750089764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa723faf54f78a30800000000000000
+      internalID: 4217608267854150310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00969f3a33bdde810800000000000000
+      internalID: 1796332841231542528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c798656f5fca150800000000000000
+      internalID: 5885349251429006454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bd9c670aa739740800000000000000
+      internalID: 5157600827875646342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3031bb1a71c3a0800000000000000
+      internalID: -6646897315666707324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47384c7c8e80160800000000000000
+      internalID: 6992094366185780392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734de934229debd40800000000000000
+      internalID: 5602153727682073655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53af8b8a781052620800000000000000
+      internalID: 2748604829742463541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff276b969e71f63f0800000000000000
+      internalID: -905478708809796865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46745a9496184550800000000000000
+      internalID: 6145186519047239246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41364acb6fe3eb1f0800000000000000
+      internalID: -1027314435546127596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34acdf7442b924bd0800000000000000
+      internalID: -2647383050811487677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d578b396335730800000000000000
+      internalID: 3986590103235842842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27896dc5535908d70800000000000000
+      internalID: 9043392108183328882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a093c1ed62c138c0800000000000000
+      internalID: -4021219215070228319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832bdf2cf6c248f70800000000000000
+      internalID: 9188517998267052600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93e485dfbef9eb0800000000000000
+      internalID: -4710787211865474598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d62fd098ae37a20800000000000000
+      internalID: 3059046446280109409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e17cae124a5070800000000000000
+      internalID: 8095855979661485581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf712c4caf79ca0800000000000000
+      internalID: -6010059454725751673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69780fa83ac7d60800000000000000
+      internalID: 7889360464382498479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5093309fcc5771830800000000000000
+      internalID: 4041828713799825669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d1d436a339b9290800000000000000
+      internalID: -7882544843798536878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dbc48af33e35740800000000000000
+      internalID: 5139701462305914222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2592da9afdf44700800000000000000
+      internalID: 523822709462963502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014233a7eab5ea0b0800000000000000
+      internalID: -5715530072153971696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6861798089307760800000000000000
+      internalID: 7453520607522678894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a795cf1159ba8640800000000000000
+      internalID: 5083078887517558693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34cdfa0f5a2ccb70800000000000000
+      internalID: 8920551549608772666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a3f13be5905da0800000000000000
+      internalID: -5958097469623262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab1db3e54b9cc050800000000000000
+      internalID: 5822199142759078830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02dc895ab189f10800000000000000
+      internalID: 2276600009682919624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb7f688db77ef50800000000000000
+      internalID: 6910628323130851114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d7c7ce711b9da0800000000000000
+      internalID: -5937132447542554028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62558f4e14ff58d0800000000000000
+      internalID: -2855295227709271445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4863c8e15c4ec500800000000000000
+      internalID: 418355730073217098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132ed633d253c930800000000000000
+      internalID: 4162261547732574996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8813c2e9e2f8220800000000000000
+      internalID: 2490260375840327920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6615e23088aa3dd0800000000000000
+      internalID: -2505504974115105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a3c80072c83dd0800000000000000
+      internalID: -2506039406192515562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efdf20aa115d3330800000000000000
+      internalID: 3692196444312166369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227cabd4246e3b70800000000000000
+      internalID: 8880645624688308781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3918b234b82624f0800000000000000
+      internalID: -853950324929980102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 181
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d50d859ccad6d0800000000000000
+      internalID: -2964832461981886876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9d844cdf7c7c760800000000000000
+      internalID: 7478165599005759924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceec8b48f938b7d0800000000000000
+      internalID: -2902506221258084667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867f0302813003d0800000000000000
+      internalID: -3242537297239902581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9f7778a1a9d9800800000000000000
+      internalID: 620821762379610591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5d985a57540f30800000000000000
+      internalID: 4540850369841683377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_176
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354793afc9e560610800000000000000
+      internalID: 1587059947000656979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_177
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca93adeb5b15fcec0800000000000000
+      internalID: -3544524540684387924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_178
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f515c2cd2e4c8a80800000000000000
+      internalID: -8463303641287813645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_179
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ee28901a87cd420800000000000000
+      internalID: 2656130513286393494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_180
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7630cf20890cc0800000000000000
+      internalID: -3744320672605242646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_181
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19c87721163b0d0800000000000000
+      internalID: -3408273761046326876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_182
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e5385a150fc510800000000000000
+      internalID: 1571480405682807994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_183
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3fd8cb38e5c2760800000000000000
+      internalID: 7434421004778992545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac367f4218d49fb10800000000000000
+      internalID: 2015727525291320266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_185
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d8214d5bc07360800000000000000
+      internalID: 7165450608532050874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_186
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aaea2cd3d74a0b0800000000000000
+      internalID: -5718307922640983397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_187
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5543b6d5339889ad0800000000000000
+      internalID: -2695253523277597611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_188
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75d237ebe5471c0800000000000000
+      internalID: -4506873155021875213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_189
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147071bb6ad90d280800000000000000
+      internalID: -9020536714194122943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_190
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1a97866b5cff90800000000000000
+      internalID: -6918554431628107936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_191
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b435769f964d20760800000000000000
+      internalID: 7422728687480951627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770282e388bfad9c0800000000000000
+      internalID: -3901529564586172297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c371e5e19550bfc0800000000000000
+      internalID: -3481188426842016831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_194
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b1e911ee85bb7a0800000000000000
+      internalID: -6360392269209658504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_195
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b449f72d8703b9c0800000000000000
+      internalID: -3912775348412398408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_196
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54d3c9418349b90800000000000000
+      internalID: -7236097040105781855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_197
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8fee73d2b03f020800000000000000
+      internalID: 2374253717394225363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3dca2cb468f00a0800000000000000
+      internalID: -6913159243043646535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_199
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0410db4cacd61fe0800000000000000
+      internalID: -1218544016592727026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_200
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0b71350b9c19a0800000000000000
+      internalID: -6260958935344542199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_201
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3ec0cdbecb5f200800000000000000
+      internalID: 213284278565135280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_202
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a95bd850defb790800000000000000
+      internalID: -7512025045322589557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_203
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2353773c9d29ce0800000000000000
+      internalID: -1399817100616977671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_204
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a96547d9a8f3f0800000000000000
+      internalID: -866756186221206464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea0cef43a3e6800800000000000000
+      internalID: 607486999028346398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_206
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3cbf8a4ad8e5c00800000000000000
+      internalID: 891305514615161833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_207
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb950f91882789fd0800000000000000
+      internalID: -2334990477915301442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_208
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf137a4ac294840800000000000000
+      internalID: 5208743529722018512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_209
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66078aa282c268660800000000000000
+      internalID: 7387640789773873254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_210
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4fa733a5fa6cf30800000000000000
+      internalID: 4595553271723783393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_211
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb7083b52641f00800000000000000
+      internalID: 1086601554024709772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_212
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f01ee392ab923a0800000000000000
+      internalID: -6689611085170798743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_213
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84336690b67b2210800000000000000
+      internalID: 1309270617490666639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_214
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436ecb3b059aef90800000000000000
+      internalID: -6923557601648155829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_215
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d8c6d97bfd4b50800000000000000
+      internalID: 6579191131371264221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_216
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527d3cf925022bc0800000000000000
+      internalID: -3809476656918334895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_217
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf644ebe17b376a0800000000000000
+      internalID: -6452612498422730803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_218
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a8b903ce6952c0800000000000000
+      internalID: -4442397773463510112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_219
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1497597c75a890800000000000000
+      internalID: -7447409548185035628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_220
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6150a4a614800b10800000000000000
+      internalID: 1945700271810171247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_221
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f278e4cd59344dc0800000000000000
+      internalID: -3655733922619690255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_222
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2a5b4216dc18e0800000000000000
+      internalID: -1721265583500415581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_223
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdb28da74e0bd50800000000000000
+      internalID: 6751147057692269767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_224
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643f5f8ec8e251e0800000000000000
+      internalID: -2210448493219203993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_225
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183c183a6315b4b40800000000000000
+      internalID: 5425519471211168641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_226
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef6bbc7cf4ebce0800000000000000
+      internalID: -1387583915648680193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_227
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7533315ae97aa0800000000000000
+      internalID: -6162636980607418793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_228
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ebf95d5f799950800000000000000
+      internalID: 6456331579730683953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_229
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de211c233bea800800000000000000
+      internalID: 625634428820057368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_230
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618b63dd879c0ce0800000000000000
+      internalID: -1437607545644809885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_231
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebaf44f661a2ca0800000000000000
+      internalID: -6040991283009634654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_232
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6666b58039c78c8e0800000000000000
+      internalID: -1672950290625894810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_233
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232da01fbcf50def0800000000000000
+      internalID: -85463063393021390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_234
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db779ccfb5f5910800000000000000
+      internalID: 1828281115005664595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_235
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2885319fd37c2d0800000000000000
+      internalID: -3258567665398545754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_236
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd94985f0fca79050800000000000000
+      internalID: 5807300395429087707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Communal Flat Dungeon Tilemap_237
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1dc5b24f63c19e0800000000000000
+      internalID: -1649382941197020700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

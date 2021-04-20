@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Rich House Boss.unity
     guid: 63b82f58de7379c428dd4e2bbae0457b
+  - enabled: 1
+    path: Assets/Scenes/Communal Flat Boss.unity
+    guid: 0a140c7a667d1194887903c796918993
   m_configObjects: {}

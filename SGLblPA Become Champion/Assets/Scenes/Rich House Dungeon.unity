@@ -218,7 +218,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 58768123}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1290161920}
@@ -298,7 +298,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &71179196
 GameObject:
@@ -9640,7 +9640,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &506467197
 GameObject:
@@ -9711,7 +9711,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 2, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &573000844
 GameObject:
@@ -11556,6 +11556,14 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 471660071}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width1
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width2
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4206210040939687846, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
       propertyPath: m_Name
       value: Teleport Floor 2 - Right
@@ -11680,7 +11688,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &657801390
 GameObject:
@@ -12149,7 +12157,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &785285355
 GameObject:
@@ -13206,7 +13214,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 894617779}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.9767275, y: -1.4447815, z: -2415.619}
+  m_LocalPosition: {x: 9, y: -1.4447815, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 657801391}
@@ -14684,7 +14692,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1103003030}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -22, y: -2, z: 0}
+  m_LocalPosition: {x: -23, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1465760784}
@@ -14727,7 +14735,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &1126423701
 GameObject:
@@ -15509,6 +15517,14 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 471660071}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width1
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width2
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4206210040939687846, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
       propertyPath: m_Name
       value: Teleport Floor 1 - Left
@@ -16111,6 +16127,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1316877433}
+  - component: {fileID: 1316877435}
+  - component: {fileID: 1316877434}
   m_Layer: 0
   m_Name: DoorPos
   m_TagString: Untagged
@@ -16132,6 +16150,45 @@ Transform:
   m_Father: {fileID: 84019377}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1316877434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316877432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf80fcf1ef0ab824dbb70bd135d5de67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prompt: {fileID: 790608774}
+--- !u!61 &1316877435
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316877432}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2, y: 2}
+  m_EdgeRadius: 0
 --- !u!1 &1340144895
 GameObject:
   m_ObjectHideFlags: 0
@@ -18994,6 +19051,14 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 471660071}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width1
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width2
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4206210040939687846, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
       propertyPath: m_Name
       value: Teleport Floor 2 - Left
@@ -19516,7 +19581,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1 &1623109105
 GameObject:
@@ -21220,7 +21285,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1785477793}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8, y: -2, z: 0}
+  m_LocalPosition: {x: -7.5, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1465760784}
@@ -21263,7 +21328,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!4 &1852952910 stripped
 Transform:
@@ -22929,6 +22994,14 @@ PrefabInstance:
       propertyPath: Player
       value: 
       objectReference: {fileID: 471660071}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width1
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -5534217253793331176, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
+      propertyPath: width2
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4206210040939687846, guid: 779345b357c9ec44bb959b4cafb16693, type: 3}
       propertyPath: m_Name
       value: Teleport Floor 1 - Right
@@ -23005,7 +23078,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1992416826}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22, y: -2, z: 0}
+  m_LocalPosition: {x: 21.5, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1465760784}
@@ -23048,7 +23121,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
 --- !u!1001 &2006322377
 PrefabInstance:

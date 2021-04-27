@@ -8,7 +8,7 @@ public class EnemyAI : MonoBehaviour
     public Transform target;
 
     public float speed = 2f;
-    public float nextWaypointDistance = 3f;
+    public float nextWaypointDistance = 2f;
 
     public Transform enemyGFX;
 

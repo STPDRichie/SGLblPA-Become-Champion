@@ -3136,7 +3136,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   data:
-    dataString: UEsDBBQAAAgIAAAoIew+K3LEdgIAABwFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVMuS2jAQ/BVK50D5wcPklhiWzWEftSS1F1+EPcYqZMklyQvsFv+ekSywQ3xBTM+MunvG/iJM6AZyI9VGseJJFkC+j4g9k2+jHnyEE91LsWWfcM15Z4WpbBJ1OW/UMInx0JZpWYNRLP8h9twmBxhsBSulqtfFHlKpjcZwSbkGhJQ0tlpg6GtETvgzXtqSM56ihT194mkZjC54zEEYUH1qNJtMl/jMI18RTwL7hOHSF84m8Xw6jaP1OFi4Fq3IOa0bKKyevtPCN0hckkCdHreacsk5054kMefGmZDSRrcoERMKRlG0YxZM7NUVsH1lLMNh+UtZajDeE0XPK6bQva4v+Sk7S2uqDx2vD8pbcCrnjlXX9Ok/fBw6uFSyfrzeGwb2DlOx/PBGzznVZuD5MLzqqYfOniPlB7rj8F6BeJYbJVtRIGhUa0tbDdGq/3uTllaQH/p4R/Uu2Da939cRh5NFkoTxch7bCfmhWUEXZ8Up5azeOVunXWDLpbPfLQkoHNQvZO9WSPu+GLWU/mj4TffDXfPAA1PaIOQlC8t1J1tlU8naGWiltSaVSoALewUNCMrN+RXbmPt53mGDa++QB2rfKn+5x64vy12JC/f5QXAHvcrjbXK6kscn0NVLazgT0JO2wDP6lEohunUbenIt27aqpPmgbN+y4t89I2Uc7ZIoLqJkN4uns2QcwJIuElouwiCms2hG3CIygTopf+2IentwaqJvLnDprh+b0UbRxq1+oehxwz5rObCciVJucwUgXroON+Kg8BJ8SYt1wdCgLRjDhJs3+coIl/kBiuzWKHNK1yejaNZ3yUjDPqSxkYyk7uuSkQu5/AVQSwMEFAAACAgAACgh7KIKhV5tAAAAeAAAAAkAJABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGrVipLLSrOzM9TslIw0TPSMzTVUVBKL0osyCgGihiCOKWZKSB2tFKasVGShZFxipFFkqmxiamFrkGqZaK5RWKauaGBcaKpkalSLFB9SWVBql9ibipET0BiSUZaZl5KZl66nntRZoo7yGil2FoAUEsBAi0AFAAACAgAACgh7D4rcsR2AgAAHAUAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAACgh7KIKhV5tAAAAeAAAAAkAJAAAAAAAAAAAAAAAwwIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAAB7AwAAAAA=
+    dataString: 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
     upgradeData: 
     file_cachedStartup: {fileID: 0}
     data_cachedStartup: 
@@ -6039,7 +6039,7 @@ GameObject:
   - component: {fileID: 382276334}
   - component: {fileID: 382276336}
   - component: {fileID: 382276337}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap_Floor_1_Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9802,7 +9802,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 471660071}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65c14b87484316347a21efaf57a5a0ea, type: 3}
+  m_Script: {fileID: 11500000, guid: 412b5d12a2286b64f8c1ee71cd17a2b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 471660072}
@@ -12413,7 +12413,7 @@ GameObject:
   - component: {fileID: 785285356}
   - component: {fileID: 785285358}
   - component: {fileID: 785285357}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap_Floor_1_Entity_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13279,7 +13279,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 471660077}
   speed: 2
-  nextWaypointDistance: 1
+  nextWaypointDistance: 2
   enemyGFX: {fileID: 10885965}
   animator: {fileID: 10885966}
 --- !u!50 &891093083
@@ -13330,7 +13330,7 @@ MonoBehaviour:
   traversableTags: -1
   tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   graphMask:
-    value: -1
+    value: 1
 --- !u!58 &891093085
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -20186,7 +20186,7 @@ GameObject:
   - component: {fileID: 1693583425}
   - component: {fileID: 1693583427}
   - component: {fileID: 1693583426}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap_Floor_1_Entity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20695,7 +20695,7 @@ GameObject:
   - component: {fileID: 1723283444}
   - component: {fileID: 1723283443}
   - component: {fileID: 1723283445}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap_Floor_1_Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23622,7 +23622,7 @@ GameObject:
   - component: {fileID: 2022501884}
   - component: {fileID: 2022501883}
   - component: {fileID: 2022501885}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemap_Floor_1_Entity
   m_TagString: Untagged
   m_Icon: {fileID: 0}

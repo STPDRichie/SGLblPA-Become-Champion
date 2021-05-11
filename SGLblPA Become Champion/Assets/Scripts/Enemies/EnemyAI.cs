@@ -14,10 +14,11 @@ public class EnemyAI : MonoBehaviour
 
     Path path;
     int currentWaypoint = 0;
-    //bool reachedEndOfPath = false;
+    // bool reachedEndOfPath = false;
 
     Seeker seeker;
     Rigidbody2D rb;
+    Vector2 seekerSpawn;
 
     public Animator animator;
 
@@ -27,6 +28,7 @@ public class EnemyAI : MonoBehaviour
     {
         seeker = GetComponent<Seeker>();
         rb = GetComponent<Rigidbody2D>();
+        seekerSpawn = GetComponent<Transform>().position;
 
         InvokeRepeating("UpdatePath", 0f, .5f);
     }
@@ -44,6 +46,7 @@ public class EnemyAI : MonoBehaviour
             path = p;
             currentWaypoint = 0;
         }
+        else seeker.StartPath(rb.position, seekerSpawn, OnPathComplete);
     }
 
     void FixedUpdate() 
@@ -52,10 +55,13 @@ public class EnemyAI : MonoBehaviour
 
         if (currentWaypoint >= path.vectorPath.Count) 
         {
-            //reachedEndOfPath = true;
+            // reachedEndOfPath = true;
             return;
         }
-        //else reachedEndOfPath = false;
+        // else reachedEndOfPath = false;
+
+        // if (reachedEndOfPath) 
+        //     seeker.StartPath(rb.position, enemySpawn, OnPathComplete);
 
         moveDirection = ((Vector2)path.vectorPath[currentWaypoint] - rb.position).normalized;
 

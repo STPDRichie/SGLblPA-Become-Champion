@@ -5,6 +5,9 @@ using UnityEngine;
 public class Prompt : MonoBehaviour
 {
     public GameObject prompt;
+    
+    [HideInInspector]
+    public bool active = true;
 
     void Start() 
     {
@@ -13,7 +16,7 @@ public class Prompt : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider) 
     {
-        if (collider.gameObject.tag == "Player")
+        if (active && collider.gameObject.tag == "Player")
             prompt.SetActive(true);
     }
 

@@ -1,11 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using PlayerNS;
 
 public class Chest : MonoBehaviour
 {
-    public Collider2D area;
-    
+    public Player player;
+
+    public string phrase;
+
     private bool playerDetected;
     public LayerMask whatIsPlayer;
 
@@ -13,17 +16,18 @@ public class Chest : MonoBehaviour
     public Sprite opened;
     public Sprite closed;
 
+    private bool isOpened = false;
+
     void Start()
     {
         if (closed == null || opened == null || sprite == null) return;
-
         sprite.sprite = closed;
     }
 
     void Update()
     {
         if (closed == null && opened == null || sprite == null) return;
-        CheckAndOpen();
+        if (!isOpened) CheckAndOpen();
     }
 
     void CheckAndOpen()
@@ -34,7 +38,10 @@ public class Chest : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E))
             {
                 sprite.sprite = opened;
-                GetComponent<Prompt>().prompt = null;
+                GetComponent<Prompt>().prompt.SetActive(false);
+                GetComponent<Prompt>().active = false;
+                player.PhrasesList.Add(phrase);
+                isOpened = true;
             }
     }
 }

@@ -150,7 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d7633077288c1b48a3581fee839d595, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  area: {fileID: -5880059945406412354}
+  player: {fileID: 3201819565947266908, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
+  phrase: 
   whatIsPlayer:
     serializedVersion: 2
     m_Bits: 64
@@ -170,3 +171,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prompt: {fileID: 4941910039064552504, guid: d16c3095949570045900b3ae831f29fe, type: 3}
+  active: 1

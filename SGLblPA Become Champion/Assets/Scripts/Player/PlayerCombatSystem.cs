@@ -12,7 +12,7 @@ namespace PlayerNS
         public LayerMask enemyLayers;
 
         public float attackRange = 0.5f;
-        public int attackDamage = 40;
+        public int attackDamage = 30;
 
         public float attackRate = 1f;
         public float nextAttackTime = 0f;

@@ -225,7 +225,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 512
   attackRange: 2
-  attackDamage: 40
+  attackDamage: 30
   attackRate: 1
   nextAttackTime: 0
 --- !u!114 &3201819565947266908

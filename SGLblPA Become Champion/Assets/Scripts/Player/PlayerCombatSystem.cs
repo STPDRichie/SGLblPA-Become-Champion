@@ -12,19 +12,20 @@ namespace PlayerNS
         public LayerMask enemyLayers;
 
         public float attackRange = 0.5f;
-        public int attackDamage = 30;
+        public int attackDamage = 25;
 
         public float attackRate = 1f;
         public float nextAttackTime = 0f;
 
         void Update()
         {
-            if (Time.time >= nextAttackTime)
-                if (Input.GetKeyDown(KeyCode.Space)) 
-                {
-                    Attack();
-                    nextAttackTime = Time.time + 1f / attackRate;
-                }
+            if (GetComponent<Player>().PhrasesList.Count != 0)
+                if (Time.time >= nextAttackTime)
+                    if (Input.GetKeyDown(KeyCode.Space)) 
+                    {
+                        Attack();
+                        nextAttackTime = Time.time + 1f / attackRate;
+                    }
         }
 
         void Attack()

@@ -41,6 +41,7 @@ public class Chest : MonoBehaviour
                 GetComponent<Prompt>().prompt.SetActive(false);
                 GetComponent<Prompt>().active = false;
                 player.PhrasesList.Add(phrase);
+                player.GetComponent<PlayerCombatSystem>().attackDamage += 3;
                 isOpened = true;
             }
     }

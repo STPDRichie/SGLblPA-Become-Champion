@@ -11,11 +11,16 @@ namespace PlayerNS
         public Transform attackPoint;
         public LayerMask enemyLayers;
 
-        public float attackRange = 0.5f;
-        public int attackDamage = 25;
+        private float attackRange = 2.5f;
+        public int attackDamage = 20;
 
-        public float attackRate = 1f;
-        public float nextAttackTime = 0f;
+        private float attackRate = 1f;
+        private float nextAttackTime = 0f;
+
+        void Start()
+        {
+            attackDamage = PlayerPrefs.GetInt("CurrentPlayerDamage");
+        }
 
         void Update()
         {
@@ -33,7 +38,8 @@ namespace PlayerNS
             // Play an attack amination
             animator.SetTrigger("Attack");
             // Detect enemies in range of attack
-            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, 
+                attackRange, enemyLayers);
 
             // Damage enemies
             foreach (Collider2D enemy in hitEnemies) 

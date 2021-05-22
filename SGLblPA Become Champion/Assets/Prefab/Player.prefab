@@ -224,10 +224,7 @@ MonoBehaviour:
   enemyLayers:
     serializedVersion: 2
     m_Bits: 512
-  attackRange: 2
   attackDamage: 25
-  attackRate: 1
-  nextAttackTime: 0
 --- !u!114 &3201819565947266908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -240,6 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fdc3089cf5bd0a468efb4bd15a6af84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 3201819565947266907}
   PhrasesList: []
   maxHealth: 100
   healthBar: {fileID: 819474977028841950, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}

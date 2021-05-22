@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using PlayerNS;
 
 public class Enemy : MonoBehaviour
 {
@@ -8,10 +9,21 @@ public class Enemy : MonoBehaviour
 
     public int maxHealth = 100;
     int currentHealth;
+    
+    private int attackDamage = 5;
 
     void Start()
     {
         currentHealth = maxHealth;
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        Player player = other.collider.GetComponent<Player>();
+        if (player != null)
+        {
+            player.TakeDamage(attackDamage);
+        }
     }
 
     public void TakeDamage(int damage) 

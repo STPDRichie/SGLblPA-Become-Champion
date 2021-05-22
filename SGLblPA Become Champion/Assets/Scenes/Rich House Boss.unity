@@ -10840,6 +10840,17 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!114 &585265856 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 819474977028841950, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
+  m_PrefabInstance: {fileID: 391182661}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5beb0c6efee96b04ea4cf96152d9bd94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &650694775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10853,7 +10864,7 @@ PrefabInstance:
       objectReference: {fileID: 2088561434}
     - target: {fileID: 2679236739407834155, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: Pause
+      value: LoadMenu
       objectReference: {fileID: 0}
     - target: {fileID: 2679236739407834155, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -12274,6 +12285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3201819565947266908, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
+      propertyPath: healthBar
+      value: 
+      objectReference: {fileID: 585265856}
     - target: {fileID: 3201819565947266909, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: attackDamage
       value: 100

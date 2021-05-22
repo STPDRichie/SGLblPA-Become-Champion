@@ -1,38 +1,61 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 namespace PlayerNS
 {
 	public class Player : MonoBehaviour
 	{
+        public Animator animator;  
+
 		//[HideInInspector]
 		public List<string> PhrasesList;
 
 		public int maxHealth = 100;
-		private int currentHealth;
+		public int currentHealth = 100;
 
 		public HealthBar healthBar;
 
-			void Start()
-			{
-			currentHealth = maxHealth;
-			healthBar.SetMaxHealth(maxHealth);
-			}
+        void Start()
+        {
+            currentHealth = PlayerPrefs.GetInt("CurrentPlayerHealth");
+            healthBar.SetHealth(currentHealth);
 
-			void Update()
-			{
-			if (Input.GetKeyDown(KeyCode.Tab))
-			{
-				TakeDamage(20);
-			}
-			}
+            var phrasesString = PlayerPrefs.GetString("PlayerPhrasesString");
+            PhrasesList = phrasesString.Split(';').Where(x => x != "").ToList();
+        }
 
-		void TakeDamage(int damage)
+        void Update()
+        {
+            if (Input.GetKeyDown(KeyCode.Tab))
+            {
+                TakeDamage(20);
+            }
+        }
+
+		public void TakeDamage(int damage)
 		{
 			currentHealth -= damage;
+            PlayerPrefs.SetInt("CurrentPlayerHealth", currentHealth);
+
+            // Play hurt animation
+            animator.SetTrigger("Hurt");
 
 			healthBar.SetHealth(currentHealth);
+
+			if (currentHealth <= 0) 
+			{
+				Die();
+			}
 		}
+
+        void Die() 
+        {
+            Debug.Log("Player Died");
+
+            // Die Animation
+            animator.SetBool("IsDead", true);
+        }
 	}
 }

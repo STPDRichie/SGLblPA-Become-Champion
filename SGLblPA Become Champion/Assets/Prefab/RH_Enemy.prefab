@@ -133,6 +133,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 5890107447677393447}
   maxHealth: 100
+  attackPoint: {fileID: 0}
+  attackRange: 0.5
+  attackDamage: 5
+  attackRate: 1
+  nextAttackTime: 0
 --- !u!212 &5890107446911467830
 SpriteRenderer:
   m_ObjectHideFlags: 0

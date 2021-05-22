@@ -13057,6 +13057,11 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!4 &968642658 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5890107447677393444, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+  m_PrefabInstance: {fileID: 2003840312}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1019624305
 GameObject:
   m_ObjectHideFlags: 0
@@ -19241,6 +19246,11 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!4 &1617106425 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5890107447677393444, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+  m_PrefabInstance: {fileID: 1619995934}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1619995934
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19304,6 +19314,10 @@ PrefabInstance:
       propertyPath: graphMask.value
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 5890107446911467831, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 1617106425}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c706159ac847e1643b69c062605d04d1, type: 3}
 --- !u!4 &1619995935 stripped
@@ -19627,6 +19641,10 @@ PrefabInstance:
       propertyPath: graphMask.value
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 5890107446911467831, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 2027623811}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c706159ac847e1643b69c062605d04d1, type: 3}
 --- !u!4 &1645580113 stripped
@@ -23059,6 +23077,10 @@ PrefabInstance:
       propertyPath: graphMask.value
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5890107446911467831, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 968642658}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c706159ac847e1643b69c062605d04d1, type: 3}
 --- !u!4 &2003840313 stripped
@@ -23689,6 +23711,11 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!4 &2027623811 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5890107447677393444, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+  m_PrefabInstance: {fileID: 1645580112}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2081061565
 GameObject:
   m_ObjectHideFlags: 0
@@ -24814,6 +24841,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &2117281722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5890107447677393444, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+  m_PrefabInstance: {fileID: 5890107447667294569}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2134869279
 GameObject:
   m_ObjectHideFlags: 0
@@ -26648,15 +26680,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5890107446911467824, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.9122868
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 5890107446911467824, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.7039433
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 5890107446911467824, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.4348636
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5890107446911467824, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -26690,12 +26722,24 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5890107446911467825, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5890107446911467827, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: target
       value: 
       objectReference: {fileID: 471660077}
     - target: {fileID: 5890107446911467829, guid: c706159ac847e1643b69c062605d04d1, type: 3}
       propertyPath: graphMask.value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5890107446911467831, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 2117281722}
+    - target: {fileID: 5890107447677393445, guid: c706159ac847e1643b69c062605d04d1, type: 3}
+      propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:

@@ -240,4 +240,5 @@ MonoBehaviour:
   animator: {fileID: 3201819565947266907}
   PhrasesList: []
   maxHealth: 100
+  currentHealth: 100
   healthBar: {fileID: 819474977028841950, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}

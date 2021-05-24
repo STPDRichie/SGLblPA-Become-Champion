@@ -17,15 +17,8 @@ public class PauseMenu : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (GameIsPaused)
-            {
-                Resume();
-            }
-
-            else
-            {
-                Pause();
-            } 
+            if (GameIsPaused) Resume();
+            else Pause();
         } 
     }
     public void Resume ()
@@ -52,6 +45,4 @@ public class PauseMenu : MonoBehaviour
         Debug.Log("Quiting game");
         Application.Quit();
     }
-
-
 }

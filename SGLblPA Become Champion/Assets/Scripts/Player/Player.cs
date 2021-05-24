@@ -17,6 +17,8 @@ namespace PlayerNS
 
 		public HealthBar healthBar;
 
+        public static bool isPlayerAlive = true;
+
         void Start()
         {
             currentHealth = PlayerPrefs.GetInt("CurrentPlayerHealth");
@@ -31,7 +33,6 @@ namespace PlayerNS
 			currentHealth -= damage;
             PlayerPrefs.SetInt("CurrentPlayerHealth", currentHealth);
 
-            // Play hurt animation
             animator.SetTrigger("Hurt");
 
 			healthBar.SetHealth(currentHealth);
@@ -44,10 +45,8 @@ namespace PlayerNS
 
         void Die() 
         {
-            Debug.Log("Player Died");
-
-            // Die Animation
-            animator.SetBool("IsDead", true);
+            // animator.SetBool("IsDead", true);
+            isPlayerAlive = false;
         }
 	}
 }

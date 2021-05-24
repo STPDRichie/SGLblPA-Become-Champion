@@ -13,6 +13,7 @@ public class MainMenu : MonoBehaviour
         PlayerPrefs.SetInt("CurrentPlayerHealth", 100);
         PlayerPrefs.SetInt("CurrentPlayerDamage", 20);
         PlayerPrefs.SetString("PlayerPhrasesString", null);
+        Time.timeScale = 1f;
 
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }

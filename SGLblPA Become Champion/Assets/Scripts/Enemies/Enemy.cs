@@ -26,7 +26,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    public void TakeDamage(int damage) 
+    public virtual void TakeDamage(int damage) 
     {
         currentHealth -= damage;
 
@@ -39,7 +39,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    void Die() 
+    public virtual void Die() 
     {
         Debug.Log("Enemy Died");
 

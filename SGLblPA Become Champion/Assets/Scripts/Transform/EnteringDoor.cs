@@ -24,6 +24,7 @@ public class EnteringDoor : MonoBehaviour
 
     private void Update() 
     {
+        if (doorPos == null) return;
         playerDetected = Physics2D.OverlapBox(doorPos.position, new Vector2(width, height), 0, whatIsPlayer);
 
         if (playerDetected == true)
@@ -33,6 +34,7 @@ public class EnteringDoor : MonoBehaviour
 
     private void OnDrawGizmosSelected() 
     {
+        if (doorPos == null) return;
         Gizmos.color = Color.blue;
         Gizmos.DrawWireCube(doorPos.position, new Vector3(width, height, 1));
     }

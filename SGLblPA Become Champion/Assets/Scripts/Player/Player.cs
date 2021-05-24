@@ -26,14 +26,6 @@ namespace PlayerNS
             PhrasesList = phrasesString.Split(';').Where(x => x != "").ToList();
         }
 
-        void Update()
-        {
-            if (Input.GetKeyDown(KeyCode.Tab))
-            {
-                TakeDamage(20);
-            }
-        }
-
 		public void TakeDamage(int damage)
 		{
 			currentHealth -= damage;

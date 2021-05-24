@@ -5,6 +5,8 @@ using UnityEngine;
 public class EnteringDoor : MonoBehaviour
 {
     private bool playerDetected;
+
+    public bool healPlayer = false;
     
     public Transform doorPos;
     public float width;
@@ -26,10 +28,13 @@ public class EnteringDoor : MonoBehaviour
     {
         if (doorPos == null) return;
         playerDetected = Physics2D.OverlapBox(doorPos.position, new Vector2(width, height), 0, whatIsPlayer);
-
+        
         if (playerDetected == true)
             if (Input.GetKeyDown(KeyCode.E))
+            {
+                if (healPlayer) PlayerPrefs.SetInt("CurrentPlayerHealth", 100);
                 sceneSwitch.SwitchScene(sceneName);
+            }
     }
 
     private void OnDrawGizmosSelected() 

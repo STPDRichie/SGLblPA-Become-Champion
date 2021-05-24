@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Boss : Enemy
 {
+    public string bossDungeon;
+
     public SpriteRenderer spriteRenderer;
 
     public override void TakeDamage(int damage)
@@ -18,5 +20,18 @@ public class Boss : Enemy
         spriteRenderer.sortingOrder = 5;
 
         GetComponent<TogglingGameObject>().Toggle(false);
+
+        CloseDoor();
+    }
+
+    public void CloseDoor()
+    {
+        if (bossDungeon == "RH") HubDungeonDoors.isRHClosed = true;
+
+        if (bossDungeon == "CF") HubDungeonDoors.isCFClosed = true;
+
+        if (bossDungeon == "DC") HubDungeonDoors.isDCClosed = true;
+
+        if (bossDungeon == "AH") HubDungeonDoors.isAHClosed = true;
     }
 }

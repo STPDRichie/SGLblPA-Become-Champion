@@ -10,19 +10,26 @@ public class Enemy : MonoBehaviour
     public int maxHealth = 100;
     int currentHealth;
     
-    private int attackDamage = 5;
+    public int attackDamage = 5;
+    
+    private float attackRate = 1f;
+    private float nextAttackTime = 0f;
 
     void Start()
     {
         currentHealth = maxHealth;
     }
 
-    void OnCollisionEnter2D(Collision2D other)
+    void OnCollisionStay2D(Collision2D other)
     {
         Player player = other.collider.GetComponent<Player>();
         if (player != null)
         {
-            player.TakeDamage(attackDamage);
+            if (Time.time >= nextAttackTime)
+            {
+                player.TakeDamage(attackDamage);
+                nextAttackTime = Time.time + 1f / attackRate;
+            }
         }
     }
 
@@ -30,7 +37,6 @@ public class Enemy : MonoBehaviour
     {
         currentHealth -= damage;
 
-        // Play hurt animation
         animator.SetTrigger("Hurt");
 
         if (currentHealth <= 0) 
@@ -41,12 +47,8 @@ public class Enemy : MonoBehaviour
 
     public virtual void Die() 
     {
-        Debug.Log("Enemy Died");
-
-        // Die Animation
         animator.SetBool("IsDead", true);
 
-        // Disable the enemy
         GetComponent<Collider2D>().enabled = false;
         GetComponent<EnemyAI>().enabled = false;
         this.enabled = false;

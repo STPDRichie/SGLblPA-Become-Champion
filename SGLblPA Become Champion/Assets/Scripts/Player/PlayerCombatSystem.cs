@@ -1,12 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace PlayerNS
 {
     public class PlayerCombatSystem : MonoBehaviour
     {
         public Animator animator;
+
+        public Text phraseForm;
 
         public Transform attackPoint;
         public LayerMask enemyLayers;
@@ -20,6 +23,7 @@ namespace PlayerNS
         void Start()
         {
             attackDamage = PlayerPrefs.GetInt("CurrentPlayerDamage");
+            phraseForm.text = "";
         }
 
         void Update()
@@ -29,24 +33,30 @@ namespace PlayerNS
                     if (Input.GetKeyDown(KeyCode.Space)) 
                     {
                         Attack();
+                        StartCoroutine(Scream());
                         nextAttackTime = Time.time + 1f / attackRate;
                     }
         }
 
         void Attack()
         {
-            // Play an attack amination
             animator.SetTrigger("Attack");
-            // Detect enemies in range of attack
+            
             Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, 
                 attackRange, enemyLayers);
 
-            // Damage enemies
-            foreach (Collider2D enemy in hitEnemies) 
-            {
-                Debug.Log("We hit " + enemy.name);
+            foreach (Collider2D enemy in hitEnemies)
                 enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
-            }
+        }
+
+        private IEnumerator Scream()
+        {
+            phraseForm.text = GetComponent<Player>().PhrasesList 
+                [Random.Range(0, GetComponent<Player>().PhrasesList.Count)];
+
+            yield return new WaitForSeconds(0.5f);
+
+            phraseForm.text = "";
         }
 
         void OnDrawGizmosSelected() 

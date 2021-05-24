@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 499186109149985560}
   - component: {fileID: 499186109149985563}
-  - component: {fileID: 499186109149985565}
+  - component: {fileID: 900963955582271702}
   - component: {fileID: 499186109149985562}
   - component: {fileID: 499186109149985567}
   - component: {fileID: 499186109149985564}
@@ -65,8 +65,8 @@ MonoBehaviour:
   tagPenalties: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   graphMask:
     value: 1
---- !u!58 &499186109149985565
-CircleCollider2D:
+--- !u!70 &900963955582271702
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -78,9 +78,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.2}
-  serializedVersion: 2
-  m_Radius: 0.4
+  m_Offset: {x: 0, y: -0.4}
+  m_Size: {x: 0.7, y: 0.3}
+  m_Direction: 1
 --- !u!114 &499186109149985562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,6 +133,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 499186110018690964}
   maxHealth: 100
+  attackDamage: 5
+  bossDungeon: 
+  spriteRenderer: {fileID: 0}
 --- !u!114 &499186109149985566
 MonoBehaviour:
   m_ObjectHideFlags: 0

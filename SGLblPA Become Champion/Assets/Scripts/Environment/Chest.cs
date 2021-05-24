@@ -26,7 +26,7 @@ public class Chest : MonoBehaviour
 
     void Update()
     {
-        if (closed == null && opened == null || sprite == null) return;
+        if (closed == null || opened == null || sprite == null) return;
         if (!isOpened) CheckAndOpen();
     }
 
@@ -40,6 +40,8 @@ public class Chest : MonoBehaviour
                 sprite.sprite = opened;
                 GetComponent<Prompt>().prompt.SetActive(false);
                 GetComponent<Prompt>().active = false;
+
+                GetComponent<PhraseTaken>().Show(phrase);
 
                 player.PhrasesList.Add(phrase);
                 var phrasesString = string.Join(";", player.PhrasesList);

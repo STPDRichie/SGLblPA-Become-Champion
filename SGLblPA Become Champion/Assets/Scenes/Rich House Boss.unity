@@ -6587,11 +6587,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -200.56824
+      value: -300
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 257
+      value: 270
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -11674,6 +11674,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PauseMenu
       objectReference: {fileID: 0}
+    - target: {fileID: 2679236739592596277, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2679236739667573311, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -11816,6 +11820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df2b8d8b66ff53f4ab79596776e7cc34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healPlayer: 1
   doorPos: {fileID: 618304347}
   width: 2.5
   height: 2
@@ -14124,7 +14129,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -14224,6 +14229,14 @@ PrefabInstance:
     - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: maxHealth
       value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: bossDungeon
+      value: RH
+      objectReference: {fileID: 0}
+    - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: attackDamage
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: spriteRenderer

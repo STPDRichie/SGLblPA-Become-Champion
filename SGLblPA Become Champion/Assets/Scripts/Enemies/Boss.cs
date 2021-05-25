@@ -17,11 +17,16 @@ public class Boss : Enemy
     {
         base.Die();
 
-        spriteRenderer.sortingOrder = 5;
-
-        GetComponent<TogglingGameObject>().Toggle(false);
+        StartCoroutine(AfterDeathAnimation());
 
         CloseDoor();
+    }
+
+    private IEnumerator AfterDeathAnimation()
+    {
+        yield return new WaitForSeconds(2);
+        spriteRenderer.sortingOrder = 5;
+        GetComponent<TogglingGameObject>().Toggle(false);
     }
 
     public void CloseDoor()

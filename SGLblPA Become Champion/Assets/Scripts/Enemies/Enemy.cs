@@ -20,6 +20,15 @@ public class Enemy : MonoBehaviour
         currentHealth = maxHealth;
     }
 
+    void Update()
+    {
+        float moveX = GetComponent<EnemyAI>().moveDirection.x;
+        float moveY = GetComponent<EnemyAI>().moveDirection.y;
+        
+        animator.SetFloat("Horizontal", moveX);
+        animator.SetFloat("Vertical", moveY);
+    }
+
     void OnCollisionStay2D(Collision2D other)
     {
         Player player = other.collider.GetComponent<Player>();

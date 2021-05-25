@@ -11835,6 +11835,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2088561433}
     m_Modifications:
+    - target: {fileID: 7862022245732260061, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2088561434}
+    - target: {fileID: 7862022245732260061, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadMenu
+      objectReference: {fileID: 0}
+    - target: {fileID: 7862022245732260061, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PauseMenu, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 7862022245875287976, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
       propertyPath: m_Name
       value: DeathMenu
@@ -14310,7 +14322,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 499186109149985560, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6
+      value: -10
       objectReference: {fileID: 0}
     - target: {fileID: 499186109149985560, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -14370,6 +14382,10 @@ PrefabInstance:
       objectReference: {fileID: 532017546}
     - target: {fileID: 499186109149985566, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: obj
+      value: 
+      objectReference: {fileID: 190320822}
+    - target: {fileID: 499186109149985566, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: objectToToggle
       value: 
       objectReference: {fileID: 190320822}
     m_RemovedComponents: []

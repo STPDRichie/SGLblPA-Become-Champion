@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class TogglingGameObject : MonoBehaviour
 {
-    public GameObject obj;
+    public GameObject objectToToggle;
 
     public void Toggle(bool on)
     {
         if (on) 
-            obj.SetActive(true);
+            objectToToggle.SetActive(true);
         else 
-            obj.SetActive(false);
+            objectToToggle.SetActive(false);
     }
 }

@@ -21,7 +21,8 @@ public class EnemyAI : MonoBehaviour
 
     public Animator animator;
 
-    private Vector2 moveDirection;
+    // [HideInInspector]
+    public Vector2 moveDirection;
 
     void Start()
     {

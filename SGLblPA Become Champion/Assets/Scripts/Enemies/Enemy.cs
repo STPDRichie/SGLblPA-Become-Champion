@@ -60,6 +60,7 @@ public class Enemy : MonoBehaviour
 
         GetComponent<Collider2D>().enabled = false;
         GetComponent<EnemyAI>().enabled = false;
+        GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
         this.enabled = false;
     }
 }

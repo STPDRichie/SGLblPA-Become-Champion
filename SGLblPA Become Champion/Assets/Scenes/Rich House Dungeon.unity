@@ -12415,7 +12415,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663082, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_Pivot.x
@@ -12435,7 +12435,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_AnchorMin.x
@@ -12443,7 +12443,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_SizeDelta.x
@@ -12487,7 +12487,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 4338890361513663083, guid: b7755e064c37d704ab76286a3dd75712, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27155,6 +27155,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Health Bar '
       objectReference: {fileID: 0}
+    - target: {fileID: 819474977028841948, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -27169,19 +27173,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchorMin.x
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_SizeDelta.x
@@ -27221,11 +27225,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -340
+      value: 340
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 280
+      value: -60
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27248,6 +27252,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 68594156941504588, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 80
+      objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266900, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_Name
       value: Player

@@ -8,6 +8,17 @@ public class MainMenu : MonoBehaviour
 {
     public List<string> PhrasesList = new List<string>();
 
+    public void PlayTutorial()
+    {
+        PlayerPrefs.SetInt("CurrentPlayerHealth", 100);
+        PlayerPrefs.SetInt("CurrentPlayerDamage", 20);
+        PlayerPrefs.SetString("PlayerPhrasesString", null);
+        PlayerNS.Player.isPlayerAlive = true;
+        Time.timeScale = 1f;
+
+        SceneManager.LoadScene("Tutorial");
+    }
+
     public void PlayGame()
     {
         PlayerPrefs.SetInt("CurrentPlayerHealth", 100);

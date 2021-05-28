@@ -16,7 +16,8 @@ public class Chest : MonoBehaviour
     public Sprite opened;
     public Sprite closed;
 
-    private bool isOpened = false;
+    [HideInInspector]
+    public bool isOpened = false;
 
     void Start()
     {

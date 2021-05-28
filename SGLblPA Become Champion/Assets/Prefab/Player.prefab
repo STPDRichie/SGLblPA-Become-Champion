@@ -405,7 +405,7 @@ MonoBehaviour:
   enemyLayers:
     serializedVersion: 2
     m_Bits: 512
-  attackDamage: 25
+  attackDamage: 20
 --- !u!114 &3201819565947266908
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Communal Flat Boss.unity
     guid: 0a140c7a667d1194887903c796918993
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f88788f56f303f5408248ef812c785c5
   m_configObjects: {}

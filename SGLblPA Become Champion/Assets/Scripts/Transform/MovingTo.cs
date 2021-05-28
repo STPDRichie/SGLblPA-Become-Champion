@@ -21,6 +21,8 @@ public class MovingTo : MonoBehaviour
 
     private void Update() 
     {
+        if (door1 == null || door2 == null || Player == null) return;
+        
         if (twoWay) 
         {
             CheckAndMove(door1, door2, width1, height1);

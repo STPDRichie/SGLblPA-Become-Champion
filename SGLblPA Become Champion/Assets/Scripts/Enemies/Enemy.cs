@@ -8,7 +8,8 @@ public class Enemy : MonoBehaviour
     public Animator animator;
 
     public int maxHealth = 100;
-    int currentHealth;
+    [HideInInspector]
+    public int currentHealth;
     
     public int attackDamage = 5;
     

@@ -30,7 +30,7 @@ public class EnemyAI : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         seekerSpawn = GetComponent<Transform>().position;
 
-        InvokeRepeating("UpdatePath", 0f, .5f);
+        InvokeRepeating("UpdatePath", 0f, 0.5f);
     }
 
     void UpdatePath() 

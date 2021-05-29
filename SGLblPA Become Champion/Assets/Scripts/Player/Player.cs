@@ -9,7 +9,7 @@ namespace PlayerNS
 	{
         public Animator animator;  
 
-		//[HideInInspector]
+		[HideInInspector]
 		public List<string> PhrasesList;
 
 		public int maxHealth = 100;

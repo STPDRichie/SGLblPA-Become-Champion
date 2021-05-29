@@ -14404,5 +14404,29 @@ PrefabInstance:
       propertyPath: objectToToggle
       value: 
       objectReference: {fileID: 190320822}
+    - target: {fileID: 1273949128422481682, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1347364542631570726, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1347364542631570726, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2690638470591639674, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6874717695499641992, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_MaxValue
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 7806446288375004925, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}

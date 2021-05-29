@@ -8,9 +8,20 @@ public class Boss : Enemy
 
     public SpriteRenderer spriteRenderer;
 
+    public BossHealthBar healthBar;
+    public GameObject healthBarObject;
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+        healthBar.SetHealth(currentHealth);
+    }
+
     public override void TakeDamage(int damage)
     {
         base.TakeDamage(damage);
+
+        healthBar.SetHealth(currentHealth);
     }
 
     public override void Die()
@@ -25,8 +36,11 @@ public class Boss : Enemy
     private IEnumerator AfterDeathAnimation()
     {
         yield return new WaitForSeconds(2);
+
         spriteRenderer.sortingOrder = 5;
+
         GetComponent<TogglingGameObject>().Toggle(false);
+        healthBarObject.SetActive(false);
     }
 
     public void CloseDoor()

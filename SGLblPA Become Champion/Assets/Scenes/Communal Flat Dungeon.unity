@@ -4768,6 +4768,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0414\u0430\u0432\u0430\u0439 \u0413\u0430\u0434\u0436\u0430"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -8290,7 +8294,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &263154609
 GameObject:
@@ -9483,6 +9487,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0421\u044B\u043D\u0430 \u0442\u0430\u043A \u043D\u0430\u0437\u043E\u0432\u0451\u0448\u044C"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -9708,6 +9716,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0411\u0438\u0441\u043C\u0438\u043B\u043B\u044F"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -13070,6 +13082,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041A\u0430\u043C\u043E\u043D \u0431\u044D\u0439\u0431\u0438"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -13307,6 +13323,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041E\u043D \u0432 \u043F\u043E\u0434\u0437\u0435\u043C\u0435\u043B\u044C\u0435"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -13385,6 +13405,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041D\u044B\u0430"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17106,6 +17130,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0428\u0435\u0441\u0442\u044C \u043D\u0435\u0432\u0435\u0441\u0442"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17184,6 +17212,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0428\u0442\u043E\u0440\u043C-\u0441\u043F\u0438\u0440\u0438\u0442"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17543,7 +17575,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17603,6 +17635,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041F\u0441\u0435\u0432\u0434\u043E\u0438\u043D\u0442\u0435\u043B\u043B\u0435\u043A\u0442\u0443\u0430\u043B"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17717,6 +17753,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0416\u0438 \u0435\u0441\u0442\u044C"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17795,6 +17835,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041E\u043F\u043F\u0430\u0430"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -17867,6 +17911,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 3201819565947266900, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
   m_PrefabInstance: {fileID: 688943434}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &881749493 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3201819565947266908, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
+  m_PrefabInstance: {fileID: 688943434}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 881749492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fdc3089cf5bd0a468efb4bd15a6af84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &930461045
 GameObject:
   m_ObjectHideFlags: 0
@@ -19917,6 +19972,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0415\u0433\u043E\u0440 \u0411\u043E\u043A\u043E\u0432 \u0437\u0435\u043C\u0435\u043B\u044F"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -20599,6 +20658,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0421\u0432\u0438\u043D\u043E\u0435 \u0441\u0435\u0440\u0434\u0446\u0435"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -20760,6 +20823,10 @@ PrefabInstance:
       value: "\u0415\u0441\u0442\u044C \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430
         \u0432 \u0431\u0430\u0431\u043A\u0435"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -20827,6 +20894,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5040119517811779146, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
   m_PrefabInstance: {fileID: 1128216321}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1129428497
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 468615172393994502, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: sounds.Array.data[0].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: ac22ec2fa8688be4893a2c89e76a5191, type: 3}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994503, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 468615172393994520, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
+      propertyPath: m_Name
+      value: AudioManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9632f23cecbc3394f87a2797c0342249, type: 3}
 --- !u!1001 &1172732315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20838,6 +20966,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041D\u0443 \u0442\u044B \u0442\u0438\u043F \u043A\u043E\u043D\u0435\u0447\u043D\u043E"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -20916,6 +21048,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0422\u044B \u0442\u0440\u0443 \u0447\u0438 \u043D\u0435 \u0442\u0440\u0443"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -21049,7 +21185,7 @@ Transform:
   - {fileID: 5855829}
   - {fileID: 412026219}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1263482388
 GameObject:
@@ -24063,6 +24199,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041C\u0438\u0441\u043F\u043B\u0435\u0439"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -24303,6 +24443,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0417\u0435\u043C\u043B\u044F \u043F\u0443\u0445\u043E\u043C"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -29377,6 +29521,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041F\u044F\u0442\u044C \u043D\u0435\u0432\u0435\u0441\u0442"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -29568,7 +29716,7 @@ RectTransform:
   - {fileID: 345471210}
   - {fileID: 471933768}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -31676,6 +31824,10 @@ PrefabInstance:
       value: "\u041B\u0435\u0442\u0438\u0442 \u043D\u043E\u0447\u043D\u043E\u0439
         \u043C\u043E\u0437\u0433\u0435\u043D\u0433"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -31772,7 +31924,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1796268462
 MonoBehaviour:
@@ -33417,7 +33569,7 @@ Transform:
   - {fileID: 1408448495}
   - {fileID: 147753009}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1932740871
 GameObject:
@@ -33573,7 +33725,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1954171584
 MonoBehaviour:
@@ -33620,6 +33772,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0414\u0430\u0432\u0430\u0439 \u043F\u0430\u043A\u0430"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -34100,6 +34256,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u0414\u043E\u0442\u0430 2"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 
@@ -34495,6 +34655,10 @@ PrefabInstance:
       propertyPath: phrase
       value: "\u041C\u043D\u0435 \u0431\u044B \u043D\u0438\u043A\u043E\u0442\u0438\u043D\u0447\u0438\u043A\u0443"
       objectReference: {fileID: 0}
+    - target: {fileID: 827684365713174065, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 881749493}
     - target: {fileID: 4029080859882029151, guid: 83413316b4c63d74585b0822c2e8316f, type: 3}
       propertyPath: form
       value: 

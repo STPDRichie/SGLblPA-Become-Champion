@@ -134,9 +134,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 499186110018690964}
-  maxHealth: 100
+  maxHealth: 500
   currentHealth: 0
-  attackDamage: 5
+  attackDamage: 25
   bossDungeon: 
   spriteRenderer: {fileID: 499186110018690967}
   healthBar: {fileID: 9022906737965584400}

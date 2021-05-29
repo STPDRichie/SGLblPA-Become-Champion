@@ -11483,11 +11483,6 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
---- !u!212 &532017546 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 499186110018690967, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
-  m_PrefabInstance: {fileID: 499186109875788817}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &585265856 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 819474977028841950, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
@@ -12021,7 +12016,7 @@ Transform:
   - {fileID: 1973530137}
   - {fileID: 98674254}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &939680651
 GameObject:
@@ -13277,7 +13272,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13385,7 +13380,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1381543007 stripped
 Transform:
@@ -14010,7 +14005,7 @@ Transform:
   - {fileID: 254666295}
   - {fileID: 939680652}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1721518891
 GameObject:
@@ -14053,7 +14048,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1973530136
 GameObject:
@@ -14224,7 +14219,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2073695771
 MonoBehaviour:
@@ -14357,7 +14352,7 @@ RectTransform:
   - {fileID: 808957453}
   - {fileID: 722146583}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14450,21 +14445,9 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1381543007}
     - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
-      propertyPath: maxHealth
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: bossDungeon
       value: RH
       objectReference: {fileID: 0}
-    - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
-      propertyPath: attackDamage
-      value: 25
-      objectReference: {fileID: 0}
-    - target: {fileID: 499186109149985564, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
-      propertyPath: spriteRenderer
-      value: 
-      objectReference: {fileID: 532017546}
     - target: {fileID: 499186109149985566, guid: 66592121f24cb4740929c6f7530eb6e5, type: 3}
       propertyPath: obj
       value: 

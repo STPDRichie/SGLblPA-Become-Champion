@@ -37,6 +37,7 @@ public class Enemy : MonoBehaviour
         {
             if (Time.time >= nextAttackTime)
             {
+		        FindObjectOfType<AudioManager>().Play("Enemy Attack");
                 player.TakeDamage(attackDamage);
                 nextAttackTime = Time.time + 1f / attackRate;
             }
@@ -47,6 +48,7 @@ public class Enemy : MonoBehaviour
     {
         currentHealth -= damage;
 
+		FindObjectOfType<AudioManager>().Play("Enemy Hurt");
         animator.SetTrigger("Hurt");
 
         if (currentHealth <= 0) 

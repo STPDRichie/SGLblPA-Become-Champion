@@ -15,13 +15,22 @@ public class Boss : Enemy
     {
         currentHealth = maxHealth;
         healthBar.SetHealth(currentHealth);
+		FindObjectOfType<AudioManager>().Play("Boss Start");
     }
 
     public override void TakeDamage(int damage)
     {
-        base.TakeDamage(damage);
+        currentHealth -= damage;
 
+		FindObjectOfType<AudioManager>().Play("Boss Hurt");
+        animator.SetTrigger("Hurt");
+        
         healthBar.SetHealth(currentHealth);
+
+        if (currentHealth <= 0) 
+        {
+            Die();
+        }
     }
 
     public override void Die()

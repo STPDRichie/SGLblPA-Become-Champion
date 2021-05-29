@@ -41,6 +41,8 @@ public class Chest : MonoBehaviour
                 sprite.sprite = opened;
                 GetComponent<Prompt>().prompt.SetActive(false);
                 GetComponent<Prompt>().active = false;
+                
+		        FindObjectOfType<AudioManager>().Play("Chest Open");
 
                 GetComponent<PhraseTaken>().Show(phrase);
 

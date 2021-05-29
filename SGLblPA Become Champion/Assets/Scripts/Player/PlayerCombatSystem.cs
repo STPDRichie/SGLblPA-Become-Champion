@@ -32,6 +32,7 @@ namespace PlayerNS
                 if (Time.time >= nextAttackTime)
                     if (Input.GetKeyDown(KeyCode.Space)) 
                     {
+		                FindObjectOfType<AudioManager>().Play("Player Attack");
                         Attack();
                         StartCoroutine(Scream());
                         nextAttackTime = Time.time + 1f / attackRate;

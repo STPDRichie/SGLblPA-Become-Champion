@@ -40,13 +40,18 @@ namespace PlayerNS
 			if (currentHealth <= 0) 
 			{
 				Die();
+                return;
 			}
+            
+			FindObjectOfType<AudioManager>().Play("Player Hurt");
 		}
 
         void Die() 
         {
             // animator.SetBool("IsDead", true);
             isPlayerAlive = false;
+            
+			FindObjectOfType<AudioManager>().Play("Player Death");
         }
 	}
 }

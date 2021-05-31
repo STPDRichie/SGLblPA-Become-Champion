@@ -2489,7 +2489,7 @@ GameObject:
   - component: {fileID: 1075286975}
   - component: {fileID: 1075286974}
   m_Layer: 5
-  m_Name: Menu
+  m_Name: UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2554,7 +2554,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_TargetDisplay: 0
 --- !u!224 &1075286973
 RectTransform:
@@ -2570,7 +2570,7 @@ RectTransform:
   - {fileID: 1032963150}
   - {fileID: 1886193959}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2839,7 +2839,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
-  m_LookaheadTime: 0.2
+  m_LookaheadTime: 0.175
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0
   m_XDamping: 1
@@ -3134,7 +3134,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_LocalPosition.x

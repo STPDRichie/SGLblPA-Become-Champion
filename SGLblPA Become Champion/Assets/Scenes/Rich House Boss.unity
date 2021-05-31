@@ -6531,7 +6531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 819474977028841951, guid: 956fb6b743fd11049be7ae871deb5bbb, type: 3}
       propertyPath: m_AnchorMax.x
@@ -11595,7 +11595,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2679236739592596272, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2679236739592596272, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_AnchorMax.x
@@ -11865,7 +11865,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7862022245875287983, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7862022245875287983, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
       propertyPath: m_AnchorMax.x
@@ -13339,7 +13339,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3201819565947266910, guid: e17c1833d148abc47b1a15b28dbd297d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14162,7 +14162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
-  m_LookaheadTime: 0.2
+  m_LookaheadTime: 0.175
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0
   m_XDamping: 1
@@ -14337,7 +14337,7 @@ GameObject:
   - component: {fileID: 2088561434}
   - component: {fileID: 2088561435}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14402,7 +14402,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_TargetDisplay: 0
 --- !u!224 &2088561433
 RectTransform:
@@ -14415,11 +14415,11 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
+  - {fileID: 722146583}
   - {fileID: 650694777}
   - {fileID: 808957453}
-  - {fileID: 722146583}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}

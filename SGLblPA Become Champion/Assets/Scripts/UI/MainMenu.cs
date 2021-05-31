@@ -8,6 +8,11 @@ public class MainMenu : MonoBehaviour
 {
     public Animator transition;
 
+    void Start()
+    {
+        Time.timeScale = 1f;
+    }
+
     public void PlayTutorial()
     {
         PlayerPrefs.SetInt("CurrentPlayerHealth", 100);

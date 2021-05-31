@@ -257,7 +257,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2679236739592596272, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2679236739592596272, guid: 0de72435d6a5fed4fb09b7ae5862bce6, type: 3}
       propertyPath: m_AnchorMax.x
@@ -4493,7 +4493,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7862022245875287983, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7862022245875287983, guid: 9d5f342ec44c4454792f91249134bb32, type: 3}
       propertyPath: m_AnchorMax.x
@@ -12542,7 +12542,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 50
   m_TargetDisplay: 0
 --- !u!224 &2097132007
 RectTransform:

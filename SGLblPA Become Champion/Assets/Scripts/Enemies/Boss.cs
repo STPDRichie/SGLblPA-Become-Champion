@@ -37,6 +37,8 @@ public class Boss : Enemy
     {
         base.Die();
 
+        FindObjectOfType<AudioManager>().Play("Boss Death");
+
         StartCoroutine(AfterDeathAnimation());
 
         CloseDoor();

@@ -19,6 +19,8 @@ public class EnteringDoor : MonoBehaviour
 
     SceneSwitch sceneSwitch;
 
+    public Animator transition;
+
     private void Start() 
     {
         sceneSwitch = FindObjectOfType<SceneSwitch>();
@@ -33,8 +35,18 @@ public class EnteringDoor : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.E))
             {
                 if (healPlayer) PlayerPrefs.SetInt("CurrentPlayerHealth", 100);
-                sceneSwitch.SwitchScene(sceneName);
+                // sceneSwitch.SwitchScene(sceneName);
+                StartCoroutine(LoadLevel());
             }
+    }
+
+    IEnumerator LoadLevel()
+    {
+        transition.SetTrigger("Start");
+
+        yield return new WaitForSeconds(1);
+
+        sceneSwitch.SwitchScene(sceneName);
     }
 
     private void OnDrawGizmosSelected() 

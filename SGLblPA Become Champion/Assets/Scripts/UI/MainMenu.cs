@@ -6,7 +6,7 @@ using System.Linq;
 
 public class MainMenu : MonoBehaviour 
 {
-    public List<string> PhrasesList = new List<string>();
+    public Animator transition;
 
     public void PlayTutorial()
     {
@@ -16,7 +16,8 @@ public class MainMenu : MonoBehaviour
         PlayerNS.Player.isPlayerAlive = true;
         Time.timeScale = 1f;
 
-        SceneManager.LoadScene("Tutorial");
+        // SceneManager.LoadScene("Tutorial");
+        StartCoroutine(LoadLevel("Tutorial"));
     }
 
     public void PlayGame()
@@ -27,8 +28,19 @@ public class MainMenu : MonoBehaviour
         PlayerNS.Player.isPlayerAlive = true;
         Time.timeScale = 1f;
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        // SceneManager.LoadScene("Hub");
+        StartCoroutine(LoadLevel("Hub"));
     }
+
+    IEnumerator LoadLevel(string sceneName)
+    {
+        transition.SetTrigger("Start");
+
+        yield return new WaitForSeconds(1);
+
+        SceneManager.LoadScene(sceneName);
+    }
+
     public void QuitGame()
     {
         Application.Quit();

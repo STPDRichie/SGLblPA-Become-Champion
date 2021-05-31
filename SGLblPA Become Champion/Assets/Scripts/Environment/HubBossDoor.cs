@@ -11,11 +11,6 @@ public class HubBossDoor : MonoBehaviour
 
     public GameObject ClosedGates;
 
-    private static bool RHEnabled;
-    private static bool CFEnabled;
-    private static bool DCEnabled;
-    private static bool AHEnabled;
-
     void Start()
     {
         if (RHBossFrame == null || CFBossFrame == null || 
@@ -26,7 +21,8 @@ public class HubBossDoor : MonoBehaviour
         if (HubDungeonDoors.isDCClosed) DCBossFrame.SetActive(true);
         if (HubDungeonDoors.isAHClosed) AHBossFrame.SetActive(true);
 
-        if (RHEnabled && CFEnabled && DCEnabled && AHEnabled)
+        if (HubDungeonDoors.isRHClosed && HubDungeonDoors.isCFClosed &&
+            HubDungeonDoors.isDCClosed && HubDungeonDoors.isAHClosed)
             ClosedGates.SetActive(false);
     }
 }

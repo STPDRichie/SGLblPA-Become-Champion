@@ -98,6 +98,7 @@ MonoBehaviour:
   nextWaypointDistance: 2
   enemyGFX: {fileID: 5890107447677393444}
   animator: {fileID: 5890107447677393447}
+  moveDirection: {x: 0, y: 0}
 --- !u!50 &5890107446911467826
 Rigidbody2D:
   serializedVersion: 4
@@ -133,6 +134,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 5890107447677393447}
   maxHealth: 100
+  currentHealth: 0
+  attackDamage: 5
 --- !u!212 &5890107446911467830
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -261,7 +264,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 1.125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

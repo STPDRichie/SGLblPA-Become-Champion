@@ -62,6 +62,12 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: Boss Death
+    clip: {fileID: 0}
+    volume: 0.4
+    pitch: 0.7
+    loop: 0
+    source: {fileID: 0}
   - name: Player Attack
     clip: {fileID: 8300000, guid: f1653703643c683479c8d20047800147, type: 3}
     volume: 0.2

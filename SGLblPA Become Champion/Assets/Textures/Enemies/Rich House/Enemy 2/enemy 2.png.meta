@@ -120,7 +120,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 24
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -139,9 +139,9 @@ TextureImporter:
       name: enemy 2_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 24
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -160,9 +160,9 @@ TextureImporter:
       name: enemy 2_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 34
         y: 24
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -181,9 +181,9 @@ TextureImporter:
       name: enemy 2_3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 24
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -204,7 +204,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -223,9 +223,9 @@ TextureImporter:
       name: enemy 2_5
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 0
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -244,9 +244,9 @@ TextureImporter:
       name: enemy 2_6
       rect:
         serializedVersion: 2
-        x: 32
+        x: 34
         y: 0
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -265,9 +265,9 @@ TextureImporter:
       name: enemy 2_7
       rect:
         serializedVersion: 2
-        x: 48
+        x: 51
         y: 0
-        width: 16
+        width: 17
         height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
